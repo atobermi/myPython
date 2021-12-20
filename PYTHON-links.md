@@ -23,6 +23,11 @@
 
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
 
+## Books
+
+- https://www.manning.com/books/pandas-workout
+- https://www.manning.com/books/time-series-forecasting-in-python-book
+
 - `apache` - [Apache common media types](http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types)
 
 
