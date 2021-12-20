@@ -2,8 +2,6 @@
 
 - [PEP 8 — the Style Guide for Python Code](https://pep8.org/) - Basis für Entwicklungsrichtlinien 
 
-- <a href="https://pep8.org/">PEP 8 — the Style Guide for Python Code</a> => Basis für Entwicklungsrichtlinien
-
 
 <h2>Basis Information</h2>
 <p>
@@ -23,7 +21,7 @@
 
 ## DataBase et cie
 
-- <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a>
+- <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
 
 - `apache` - [Apache common media types](http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types)
 
