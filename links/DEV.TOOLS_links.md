@@ -8,3 +8,7 @@
 
 ## Linux
 - [nano editor 6.0](https://www.nano-editor.org)
+
+## SoftwareEngineering
+
+- [E Wolff - diverses](https://ewolff.com/)
