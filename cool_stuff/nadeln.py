@@ -1,6 +1,7 @@
 # prof. edmund weitz 
 # weihnachtsvorlesung 2021
 # https://www.youtube.com/watch?v=YIkqZsz4faA
+# http://weitz.de/
 
 from random import unifrom
 from math import pi, cos, floor
