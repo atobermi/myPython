@@ -2,7 +2,6 @@
 
 - [PEP 8 — the Style Guide for Python Code](https://pep8.org/) - Basis für Entwicklungsrichtlinien 
 
-
 <h2>Basis Information</h2>
 <p>
 <a href="https://pep8.org/">PEP 8 — the Style Guide for Python Code</a> => Basis für Entwicklungsrichtlinien</br>
@@ -27,7 +26,8 @@
 
 - https://www.manning.com/books/pandas-workout
 - https://www.manning.com/books/time-series-forecasting-in-python-book
-
 - `apache` - [Apache common media types](http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types)
 
+## IDE
 
+- [TabNine](https://www.tabnine.com/install)
