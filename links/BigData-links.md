@@ -1,7 +1,7 @@
 # BigData
 
-
 ## ML
+
 - [Die besten Tools für TensorFlow](https://www.computerwoche.de/a/die-besten-tools-fuer-tensorflow,3547391) (aus CW)
 
 ## DataBases for BigData&Analytics 
