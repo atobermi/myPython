@@ -13,3 +13,5 @@
 
 - [E Wolff - diverses](https://ewolff.com/)
 - [guid gen](https://www.guidgenerator.com/online-guid-generator.aspx) 8a05eef5932c4f66b349d407f1cfbedc 32Byte 6f9cfce1-7ec5-4bda-bf93-fc4a0c3b404c
+
+- [mermaid](https://mermaid-js.github.io/mermaid/) - create diagrams and visualizations using text and code
