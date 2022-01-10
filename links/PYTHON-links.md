@@ -42,3 +42,7 @@
 ## Conf
 
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
+
+## Blogs
+
+- [Python Insider DE](http://blog-de.python.org/)
