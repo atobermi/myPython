@@ -38,6 +38,7 @@
 
 - [FreezeGun: Let your Python tests travel through time](https://github.com/spulec/freezegun)
 - [Agnostic Github client API ](https://github.com/mozilla/agithub) - An EDSL for connecting to REST servers
+- [Faker](https://pypi.org/project/Faker/) - is a Python package that generates fake data for you
 
 ## Conf
 
@@ -46,3 +47,7 @@
 ## Blogs
 
 - [Python Insider DE](http://blog-de.python.org/)
+
+## ML
+- [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standar, info zu data-science libraries
+
