@@ -33,3 +33,8 @@
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
 - [TabNine](https://www.tabnine.com/install)
 - [WING Python IDE](https://wingware.com/) 
+
+## Libs
+
+- [FreezeGun: Let your Python tests travel through time](https://github.com/spulec/freezegun)
+- [Agnostic Github client API ](https://github.com/mozilla/agithub) - An EDSL for connecting to REST servers
