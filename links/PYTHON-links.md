@@ -50,5 +50,8 @@
 
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
+
+- [CuPy](https://cupy.dev/) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
+
 - ensorFlow, PyTorch, JAX, MXNet
 
