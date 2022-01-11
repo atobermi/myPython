@@ -53,5 +53,11 @@
 
 - [CuPy](https://cupy.dev/) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
 
-- ensorFlow, PyTorch, JAX, MXNet
+- TensorFlow, PyTorch, JAX, MXNet
+
+
+## ReportLab
+
+- [Gen by Newton](https://vonkunesnewton.medium.com/generating-pdfs-with-reportlab-ced3b04aedef) - Generating pdfs with ReportLab
+- [repLab](https://wiki.ubuntuusers.de/ReportLab/)
 
