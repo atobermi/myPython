@@ -21,9 +21,11 @@
 ## DataBase et cie
 
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
+- [sostore](https://noisefloor-net.blogspot.com/2013/08/sostore-eine-simple-objekt-datenbank.html) simple objekt-db mit sqllite
 
 ## Books
 
+- [Python Referenz Darvid M. Beazley](https://www.reportlab.com/media/imadj/data/RLIMG_f32c7c0a6db7b442726ebb8b3d3e3d0e.PDF)
 - https://www.manning.com/books/pandas-workout
 - https://www.manning.com/books/time-series-forecasting-in-python-book
 - `apache` - [Apache common media types](http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types)
@@ -62,3 +64,8 @@
 - [repLab KurzInfo](https://wiki.ubuntuusers.de/ReportLab/)
 - [simple Tutorial](https://www.blog.pythonlibrary.org/2010/03/08/a-simple-step-by-step-reportlab-tutorial/)
 - [open source source](https://hg.reportlab.com/hg-public/reportlab)
+
+- [getStyleSheet](https://docutils.sourceforge.io/sandbox/dreamcatcher/rlpdf/stylesheet.py)   self.style['Normal'].fontSize = 12
+- [CreateTables](https://www.blog.pythonlibrary.org/2010/09/21/reportlab-tables-creating-tables-in-pdfs-with-python/) - with ref to reportlab docu
+- [Tabellen](https://noisefloor-net.blogspot.com/2015/07/python-tabellen-in-reportlab.html) - beispiel und ref auf doku
+- [ListFlowable](https://noisefloor-net.blogspot.com/2014/10/python-listflowables-in-reportlab.html)
