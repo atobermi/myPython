@@ -69,3 +69,4 @@
 - [CreateTables](https://www.blog.pythonlibrary.org/2010/09/21/reportlab-tables-creating-tables-in-pdfs-with-python/) - with ref to reportlab docu
 - [Tabellen](https://noisefloor-net.blogspot.com/2015/07/python-tabellen-in-reportlab.html) - beispiel und ref auf doku
 - [ListFlowable](https://noisefloor-net.blogspot.com/2014/10/python-listflowables-in-reportlab.html)
+- [ReportLab freies Magazin](http://www.freiesmagazin.de/mobil/freiesMagazin-2010-04-bilder.html#10_04_reportLab)
