@@ -28,4 +28,4 @@
 
 ## Security
 
-- [WuT - DataDiaode](https://www.wut.de/e-55312-ww-dade-000.php) - für PLC4X - passive-mode drivers
+- [WuT  Fix Defined Firewall](https://www.wut.de/e-55312-ww-dade-000.php) - "Data-Diode" für PLC4X - passive-mode drivers
