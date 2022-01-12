@@ -7,6 +7,7 @@
 - [MT Connet](https://www.mtconnect.org/) - standardizes factory device data
 - [OPC-Foundation](https://opcfoundation.org/)
 - [PLC4X](https://plc4x.apache.org/)
+- [Industrial Opensource](https://industrial-opensource.com/)
 
 
 ## Machinery goes Digital
