@@ -15,3 +15,9 @@
 ## Tools
 
 - [HIVE-MQ - mqtt5](https://www.hivemq.com/mqtt/mqtt-protocol/)
+
+
+
+## Playground
+
+- [Thingsboard TempSensor MQTT sample](https://thingsboard.io/docs/samples/esp8266/temperature/)
