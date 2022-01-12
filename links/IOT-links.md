@@ -3,6 +3,7 @@
 
 ## Specs & more
 
+- [ISA95 Industrial Information] - (https://isa-95.com/#home)
 - [umati](https://umati.org/about/) - universal machine technology interface
 - [MT Connet](https://www.mtconnect.org/) - standardizes factory device data
 - [OPC-Foundation](https://opcfoundation.org/)
