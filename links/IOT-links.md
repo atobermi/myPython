@@ -21,3 +21,4 @@
 ## Playground
 
 - [Thingsboard TempSensor MQTT sample](https://thingsboard.io/docs/samples/esp8266/temperature/)
+- [TempSensor HomeAssist (py)](https://www.smartlab.at/build-a-wireless-mqtt-temperature-and-humidity-sensor-for-your-home-assistant/)
