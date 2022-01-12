@@ -23,3 +23,9 @@
 
 - [Thingsboard TempSensor MQTT sample](https://thingsboard.io/docs/samples/esp8266/temperature/)
 - [TempSensor HomeAssist (py)](https://www.smartlab.at/build-a-wireless-mqtt-temperature-and-humidity-sensor-for-your-home-assistant/)
+
+
+
+## Security
+
+- [WuT - DataDiaode](https://www.wut.de/e-55312-ww-dade-000.php) - für PLC4X - passive-mode drivers
