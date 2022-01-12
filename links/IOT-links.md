@@ -5,8 +5,13 @@
 
 - [umati](https://umati.org/about/) - universal machine technology interface
 - [MT Connet](https://www.mtconnect.org/) - standardizes factory device data
+- [OPC-Foundation](https://opcfoundation.org/)
 
 
 ## Machinery goes Digital
 
 - [United Grinding - c.o.r.e.](https://www.grinding.ch/de/digitalisierung/digital-interfaces/)
+
+## Tools
+
+- [HIVE-MQ - mqtt5](https://www.hivemq.com/mqtt/mqtt-protocol/)
