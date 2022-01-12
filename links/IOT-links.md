@@ -6,7 +6,7 @@
 - [umati](https://umati.org/about/) - universal machine technology interface
 - [MT Connet](https://www.mtconnect.org/) - standardizes factory device data
 - [OPC-Foundation](https://opcfoundation.org/)
-- [plc4x](https://plc4x.apache.org/)
+- [PLC4X](https://plc4x.apache.org/)
 
 
 ## Machinery goes Digital
