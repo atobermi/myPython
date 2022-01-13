@@ -35,6 +35,7 @@
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
 - [TabNine](https://www.tabnine.com/install)
 - [WING Python IDE](https://wingware.com/) 
+- [Kite](https://www.kite.com/) free AI Code assistent
 
 ## Libs
 
