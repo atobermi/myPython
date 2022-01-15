@@ -78,3 +78,4 @@
 
 - [fpdf2](https://pyfpdf.github.io/fpdf2/index.html) 
 - [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/) - wird nicht mehr gewartet --> fpdf2
+- [epc-qr](https://epc-qr.eu/?form)
