@@ -77,3 +77,4 @@
 ## fpdf
 
 - [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/)
+- [pypfg git](https://github.com/reingart/pyfpdf)
