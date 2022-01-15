@@ -76,5 +76,5 @@
 
 ## fpdf
 
-- [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/)
-- [pypfg git](https://github.com/reingart/pyfpdf)
+- [fpdf2](https://pyfpdf.github.io/fpdf2/index.html) 
+- [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/) - wird nicht mehr gewartet --> fpdf2
