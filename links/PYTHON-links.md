@@ -54,14 +54,13 @@
 
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
-
 - [CuPy](https://cupy.dev/) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
-
 - TensorFlow, PyTorch, JAX, MXNet
 
 
 ## ReportLab
 
+- [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 - [Gen by Newton](https://vonkunesnewton.medium.com/generating-pdfs-with-reportlab-ced3b04aedef) - Generating pdfs with ReportLab
 - [repLab KurzInfo](https://wiki.ubuntuusers.de/ReportLab/)
 - [simple Tutorial](https://www.blog.pythonlibrary.org/2010/03/08/a-simple-step-by-step-reportlab-tutorial/)
