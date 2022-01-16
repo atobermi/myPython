@@ -2,6 +2,7 @@
 
 - [PEP 8 — the Style Guide for Python Code](https://pep8.org/) - Basis für Entwicklungsrichtlinien 
 
+- [Python4Everybody](https://www.py4e.com/)
 - [packing python](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 
 <h2>Basis Information</h2>
