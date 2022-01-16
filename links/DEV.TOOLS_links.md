@@ -25,6 +25,7 @@
 
 - [Das PDF Howto](http://www.p2501.ch/pdf-howto/start)
 - [MYK (Cyan-Magenta-Yellow-blacK) Color Codes](https://www.december.com/html/spec/colorcmyk.html)
+- [RGB grey](http://www.markusbader.de/tricky/rgb_grau.html)
 
 ## DocTools
 
