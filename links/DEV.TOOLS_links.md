@@ -24,6 +24,7 @@
 ## Standards
 
 - [Das PDF Howto](http://www.p2501.ch/pdf-howto/start)
+- [MYK (Cyan-Magenta-Yellow-blacK) Color Codes](https://www.december.com/html/spec/colorcmyk.html)
 
 ## DocTools
 
