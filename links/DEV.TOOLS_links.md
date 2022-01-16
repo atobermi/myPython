@@ -19,7 +19,11 @@
 
 - [mermaid](https://mermaid-js.github.io/mermaid/) - create diagrams and visualizations using text and code
 
-- [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf)
+- [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf
+
+## Standards
+
+- [Das PDF Howto](http://www.p2501.ch/pdf-howto/start)
 
 ## DocTools
 
