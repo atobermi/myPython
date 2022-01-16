@@ -75,8 +75,15 @@
 - [ListFlowable](https://noisefloor-net.blogspot.com/2014/10/python-listflowables-in-reportlab.html)
 - [ReportLab freies Magazin](http://www.freiesmagazin.de/mobil/freiesMagazin-2010-04-bilder.html#10_04_reportLab)
 
-## fpdf
+## pdf gen
 
 - [fpdf2](https://pyfpdf.github.io/fpdf2/index.html) 
 - [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/) - wird nicht mehr gewartet --> fpdf2
+- [pdfrw](https://github.com/pmaupin/pdfrw#readme) - mit Beschreibung div pdf-libs
+
+
 - [epc-qr](https://epc-qr.eu/?form)
+
+## to be checked
+
+- [cairographics](https://www.cairographics.org/)
