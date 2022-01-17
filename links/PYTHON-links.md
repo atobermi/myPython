@@ -46,6 +46,7 @@
 - [FreezeGun: Let your Python tests travel through time](https://github.com/spulec/freezegun)
 - [Agnostic Github client API ](https://github.com/mozilla/agithub) - An EDSL for connecting to REST servers
 - [Faker](https://pypi.org/project/Faker/) - is a Python package that generates fake data for you
+- [Dash plotly](https://plotly.com/dash/open-source/)
 
 ## Conf
 
