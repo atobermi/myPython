@@ -10,11 +10,8 @@
 - [flutter](https://flutter.dev/) Build apps for any screen, powered by Google
 - [WebAssemblyComponents](https://radu-matei.com/blog/intro-wasm-components/) - Introduction to WebAssembly components radu's blogs
 
-## API
-- [Die besten API-Tools](https://www.computerwoche.de/a/die-15-besten-schnittstellen-tools,3552393) ( aus CW )
-
-## Linux
-- [nano editor 6.0](https://www.nano-editor.org)
+## Fun
+- [Writing a simple 16 bit VM in less than 125 lines of C](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
 
 ## SoftwareEngineering
 
