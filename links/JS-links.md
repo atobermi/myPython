@@ -8,3 +8,5 @@
 ## Libs
 
 - [billboard](https://github.com/naver/billboard.js) - billboard.js is a re-usable, easy interface JavaScript chart library, based on D3.js.
+- [colors.js](https://www.npmjs.com/package/colors)
+- []()
