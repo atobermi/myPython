@@ -7,8 +7,10 @@
 
 ## Language
 
-- [Dart])https://dart.dev/overview) - Dart is a client-optimized language for fast apps on any platform powered by Google
- 
+- [Dart](https://dart.dev/overview) - Dart is a client-optimized language for fast apps on any platform powered by Google
+
+## Tools
+- [curl](https://curl.se/) - command line tool and library for transferring data with URLs (since 1998)
 
 ## Web
 - [Ruby On Rails](https://rubyonrails.org/)
