@@ -57,6 +57,7 @@
 ## Blogs
 
 - [Python Insider DE](http://blog-de.python.org/)
+- [20 Best Python Blogs](https://bloggingfordevs.com/python-blogs/)
 
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
