@@ -4,6 +4,11 @@
 
 - [Replit](https://replit.com/) - Use our free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.
 
+## Language
+
+- [Dart])https://dart.dev/overview) - Dart is a client-optimized language for fast apps on any platform powered by Google
+ 
+
 ## Web
 - [Ruby On Rails](https://rubyonrails.org/)
 - [WebPack](https://webpack.js.org/) bundle your assets
