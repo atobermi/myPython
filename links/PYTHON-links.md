@@ -48,6 +48,7 @@
 - [Faker](https://pypi.org/project/Faker/) - is a Python package that generates fake data for you
 - [Dash plotly](https://plotly.com/dash/open-source/)
 - [Everett](https://www.heise.de/news/Python-Library-Everett-3-0-0-bringt-Namespaces-und-Components-in-Einklang-6327405.html) - Konfigurationsbibliothek für Python-Apps
+- [borb](https://borbpdf.com/) - Read, write, and edit PDF files with borb, a pure python library
 
 ## Conf
 
