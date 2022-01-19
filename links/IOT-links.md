@@ -37,3 +37,8 @@
 ## Security
 
 - [WuT  Fix Defined Firewall](https://www.wut.de/e-55312-ww-dade-000.php) - "Data-Diode" für PLC4X - passive-mode drivers
+
+
+## Messmittel
+
+- [Steinwald](https://info.steinwald.com/STEINWALD_Uebersicht_2021_14.pdf)
