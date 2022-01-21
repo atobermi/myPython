@@ -1,7 +1,7 @@
 # Blogs
 
 ## SoftwareEngineering et.al.
--[ArminRonacher](https://lucumr.pocoo.org/)
+- [ArminRonacher](https://lucumr.pocoo.org/)
 
 ## IT-Fun
 
