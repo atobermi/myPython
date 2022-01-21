@@ -1,5 +1,8 @@
 # Blogs
 
+## SoftwareEngineering et.al.
+-[ArminRonacher](https://lucumr.pocoo.org/)
+
 ## IT-Fun
 
 - [Felix von Leitner Fefes](https://blog.fefe.de/) - heise & more
