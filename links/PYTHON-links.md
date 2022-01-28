@@ -21,6 +21,9 @@
 <a href="https://www.philipphauer.de/study/se/design-pattern/facade.php">DesignPattern Facade</a>
 </p>
 
+## Tutorials et cie
+- [Schoenfeld](https://bodo-schoenfeld.de/python/)
+
 ## DataBase et cie
 
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
