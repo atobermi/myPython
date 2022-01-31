@@ -66,6 +66,7 @@
 
 - [Python Insider DE](http://blog-de.python.org/)
 - [20 Best Python Blogs](https://bloggingfordevs.com/python-blogs/)
+- [Working with Files I/O](https://abiakshar.medium.com/working-with-python-files-i-o-e734de03b967)
 
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
