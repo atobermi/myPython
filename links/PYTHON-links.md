@@ -23,6 +23,7 @@
 
 ## Tutorials et cie
 - [Schoenfeld](https://bodo-schoenfeld.de/python/)
+- [Python Tutorial](https://www.pythontutorial.net/) - tkinter ok
 
 ## DataBase et cie
 
