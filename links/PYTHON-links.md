@@ -2,6 +2,8 @@
 
 - [PEP 8 — the Style Guide for Python Code](https://pep8.org/) - Basis für Entwicklungsrichtlinien 
 
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
 - [Python4Everybody](https://www.py4e.com/)
 - [packing python](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 
@@ -24,7 +26,7 @@
 ## Tutorials et cie
 - [Schoenfeld](https://bodo-schoenfeld.de/python/)
 - [Python Tutorial](https://www.pythontutorial.net/) - tkinter ok
-- [Geeks4Geeks Python Tkinter Tutorial])(https://www.geeksforgeeks.org/python-tkinter-tutorial/)
+- [Geeks4Geeks Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/)
 
 ## DataBase et cie
 
