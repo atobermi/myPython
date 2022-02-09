@@ -56,7 +56,8 @@
 - [Everett](https://www.heise.de/news/Python-Library-Everett-3-0-0-bringt-Namespaces-und-Components-in-Einklang-6327405.html) - Konfigurationsbibliothek für Python-Apps
 - [borb](https://borbpdf.com/) - Read, write, and edit PDF files with borb, a pure python library
 - [click](https://click.palletsprojects.com/en/8.0.x/) - Click is a Python package for creating beautiful command line interfaces
-- [PipelineDP](https://github.com/OpenMined/PipelineDP) - PipelineDP is a framework for applying differentially private aggregations to large datasets 
+- [PipelineDP](https://github.com/OpenMined/PipelineDP) - PipelineDP is a framework for applying differentially private aggregations to large datasets
+- [httpx](https://www.python-httpx.org/) - A next-generation HTTP client for Python.
 
 ## visuals
 - [Dash plotly](https://plotly.com/dash/open-source/)
