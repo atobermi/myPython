@@ -25,4 +25,8 @@
 
 ## Module
 
+### PP
 - [PP/DS Blog](https://blogs.sap.com/2018/02/12/ppds-for-sap-s4hana-advanced-planning-a-powerful-planning-and-scheduling-tool/comment-page-1/)
+
+### MM
+- [Beschaffung: Bedarfsarten/Bedarfsermittlung](https://de.wikibooks.org/wiki/Materialwirtschaft:_Beschaffung:_Bedarfsarten_und_Bedarfsermittlung#Beschaffung) - wikibooks
