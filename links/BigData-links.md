@@ -16,3 +16,6 @@
 - https://yandex.com/dev/clickhouse/
 - https://www.yellowbrick.com/
 
+## Books et. al
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
