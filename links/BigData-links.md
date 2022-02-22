@@ -19,3 +19,5 @@
 ## Books et. al
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Seeing Theory](https://seeing-theory.brown.edu/index.htm) - introduction probabilty & statistics
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/coordinate-systems-axes.html) - 
