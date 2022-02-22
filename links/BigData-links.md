@@ -22,3 +22,6 @@
 - [Seeing Theory](https://seeing-theory.brown.edu/index.htm) - introduction probabilty & statistics
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/coordinate-systems-axes.html)
 - [dataelixir](https://dataelixir.com/newsletter-archives/)
+
+## Kafka
+- [OffsetExplorer](https://www.kafkatool.com/)
