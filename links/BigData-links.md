@@ -24,4 +24,7 @@
 - [dataelixir](https://dataelixir.com/newsletter-archives/)
 
 ## Kafka
-- [OffsetExplorer](https://www.kafkatool.com/)
+
+- [kafka](https://kafka.apache.org/) - homepage
+- [kafka-docker](https://github.com/wurstmeister/kafka-docker)
+- [OffsetExplorer](https://www.kafkatool.com/) by wurstmeister
