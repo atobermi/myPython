@@ -79,6 +79,8 @@
 - [CuPy](https://cupy.dev/) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
 - TensorFlow, PyTorch, JAX, MXNet
 
+## Python & Docker
+- [3.11 in Docker](https://realpython.com/preview/python311-error-messages/) - link zu docker and pyhton
 
 ## ReportLab
 
