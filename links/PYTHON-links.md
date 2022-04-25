@@ -1,5 +1,7 @@
 # Python links
 
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+
 - [PEP 8 — the Style Guide for Python Code](https://pep8.org/) - Basis für Entwicklungsrichtlinien 
 
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
