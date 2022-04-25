@@ -58,6 +58,7 @@
 - [click](https://click.palletsprojects.com/en/8.0.x/) - Click is a Python package for creating beautiful command line interfaces
 - [PipelineDP](https://github.com/OpenMined/PipelineDP) - PipelineDP is a framework for applying differentially private aggregations to large datasets
 - [httpx](https://www.python-httpx.org/) - A next-generation HTTP client for Python.
+- [Pydantic](https://towardsdatascience.com/how-to-make-the-most-of-pydantic-aa374d5c12d) - Explore techniques for data contract validation, higher interoperability with JSON Schemas, and simplified data model processing
 
 ## visuals
 - [Dash plotly](https://plotly.com/dash/open-source/)
