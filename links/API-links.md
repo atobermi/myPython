@@ -3,6 +3,7 @@
 ## links et. al.
 - [Die besten API-Tools](https://www.computerwoche.de/a/die-15-besten-schnittstellen-tools,3552393) ( aus CW )
 - [Chapter 12 Modifying APIs](https://medium.com/pragmatic-programmers/chapter-12-modifying-apis-818362113aed) - Design and Build Great Web APIs the prgmatic programmers
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 ## API Security
 
