@@ -62,7 +62,7 @@
 - [httpx](https://www.python-httpx.org/) - A next-generation HTTP client for Python.
 - [Pydantic](https://towardsdatascience.com/how-to-make-the-most-of-pydantic-aa374d5c12d) - Explore techniques for data contract validation, higher interoperability with JSON Schemas, and simplified data model processing
 
-## visuals
+## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/)
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
 
@@ -80,6 +80,7 @@
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
 - [CuPy](https://cupy.dev/) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
+- [Apache Arrow PyArrow](https://arrow.apache.org/docs/python/) - Apache Arrow is a development platform for in-memory analytics
 - TensorFlow, PyTorch, JAX, MXNet
 
 ## Python & Docker
