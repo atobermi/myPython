@@ -63,7 +63,7 @@
 - [Pydantic](https://towardsdatascience.com/how-to-make-the-most-of-pydantic-aa374d5c12d) - Explore techniques for data contract validation, higher interoperability with JSON Schemas, and simplified data model processing
 
 ## Visuals
-- [Dash plotly](https://plotly.com/dash/open-source/)
+- [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
 
 
@@ -81,7 +81,9 @@
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
 - [CuPy](https://cupy.dev/) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
 - [Apache Arrow PyArrow](https://arrow.apache.org/docs/python/) - Apache Arrow is a development platform for in-memory analytics
+- [H2O Wave](https://h2o.ai/platform/ai-cloud/make/h2o-wave/) -Python dev framework 4 real-time interactive AI apps with sophisticated visualizations.
 - TensorFlow, PyTorch, JAX, MXNet
+
 
 ## Python & Docker
 - [3.11 in Docker](https://realpython.com/preview/python311-error-messages/) - link zu docker and pyhton
