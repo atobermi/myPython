@@ -108,8 +108,10 @@
 - [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/) - wird nicht mehr gewartet --> fpdf2
 - [pdfrw](https://github.com/pmaupin/pdfrw#readme) - mit Beschreibung div pdf-libs
 
-
 - [epc-qr](https://epc-qr.eu/?form)
+
+## tips & tricks
+- [Constants](https://realpython.com/python-constants/) - Python Constants: Improve Your Code's Maintainability
 
 ## to be checked
 
