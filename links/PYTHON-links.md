@@ -112,6 +112,7 @@
 
 ## tips & tricks
 - [Constants](https://realpython.com/python-constants/) - Python Constants: Improve Your Code's Maintainability
+- [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 
 ## to be checked
 
