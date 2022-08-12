@@ -85,6 +85,9 @@
 - TensorFlow, PyTorch, JAX, MXNet
 
 
+## IOT
+- [MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python) - How to use MQTT in Python (Paho)
+
 ## Python & Docker
 - [3.11 in Docker](https://realpython.com/preview/python311-error-messages/) - link zu docker and pyhton
 
