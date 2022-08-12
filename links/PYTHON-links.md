@@ -84,6 +84,8 @@
 - [H2O Wave](https://h2o.ai/platform/ai-cloud/make/h2o-wave/) -Python dev framework 4 real-time interactive AI apps with sophisticated visualizations.
 - TensorFlow, PyTorch, JAX, MXNet
 
+## Tutorials
+- [Queue](https://pymotw.com/2/Queue/) - Queue – A thread-safe FIFO implementation
 
 ## IOT
 - [MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python) - How to use MQTT in Python (Paho)
