@@ -1,3 +1,4 @@
 - [start prj](https://www.valentinog.com/blog/django-start/) django quickstart
 - [user interactive forms](https://www.mattlayman.com/understand-django/user-interaction-forms/)
 - [Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
+- [w3](https://www.w3schools.com/django/index.php) w3school django
