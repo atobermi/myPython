@@ -123,3 +123,4 @@
 ## to be checked
 
 - [cairographics](https://www.cairographics.org/)
+- [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
