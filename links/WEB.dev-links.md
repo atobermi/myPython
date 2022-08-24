@@ -1,5 +1,12 @@
 # The Web Development
 
+## Info
+- [css-frameworks](https://www.designerinaction.de/tipps-tricks/web-development/css-frameworks/)
+
+## Tools
+- [jpg->fav](http://www.chami.com/html-kit/services/favicon/)
+- [milligram](https://milligram.io/tables.html) - css framework minimal
+
 ## Generators
 
 - [Hugo](https://gohugo.io/) - Hugo is one of the most popular open-source static site generators
