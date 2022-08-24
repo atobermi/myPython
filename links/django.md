@@ -3,3 +3,4 @@
 - [Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
 - [w3](https://www.w3schools.com/django/index.php) w3school django
 - [BootStrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [Mastering Django](https://masteringdjango.com/)
