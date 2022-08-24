@@ -123,6 +123,7 @@
 ## Div
 
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
+- [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
 
 ## to be checked
 
