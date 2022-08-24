@@ -120,7 +120,13 @@
 - [Constants](https://realpython.com/python-constants/) - Python Constants: Improve Your Code's Maintainability
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 
+## Div
+
+- [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
+
 ## to be checked
 
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
+
+
