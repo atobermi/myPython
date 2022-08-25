@@ -4,3 +4,4 @@
 - [w3](https://www.w3schools.com/django/index.php) w3school django
 - [BootStrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Mastering Django](https://masteringdjango.com/)
+- [beginners guide](https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html)
