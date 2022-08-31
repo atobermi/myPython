@@ -83,6 +83,7 @@
 - [Apache Arrow PyArrow](https://arrow.apache.org/docs/python/) - Apache Arrow is a development platform for in-memory analytics
 - [H2O Wave](https://h2o.ai/platform/ai-cloud/make/h2o-wave/) -Python dev framework 4 real-time interactive AI apps with sophisticated visualizations.
 - TensorFlow, PyTorch, JAX, MXNet
+- [rstudio-flask](https://www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/) - jumping river
 
 ## Tutorials
 - [Queue](https://pymotw.com/2/Queue/) - Queue – A thread-safe FIFO implementation
