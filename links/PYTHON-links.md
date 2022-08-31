@@ -132,5 +132,5 @@
 
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
-
+- [flet flutter apps](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
 
