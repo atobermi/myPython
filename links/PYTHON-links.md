@@ -86,6 +86,9 @@
 
 ## Tutorials
 - [Queue](https://pymotw.com/2/Queue/) - Queue – A thread-safe FIFO implementation
+- [urllib](https://realpython.com/urllib-request/) - Python's urllib.request for HTTP Requests
+- [requests](https://realpython.com/python-requests/) - Python’s Requests Library (Guide)
+
 
 ## IOT
 - [MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python) - How to use MQTT in Python (Paho)
