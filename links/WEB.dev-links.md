@@ -13,3 +13,6 @@
 ## Fonts
 
 - [Roboto](https://fonts.google.com/specimen/Roboto#standard-styles) - google fonts
+
+## Resources
+- [res4dev](https://github.com/bradtraversy/design-resources-for-developers)
