@@ -41,6 +41,8 @@
 - https://www.manning.com/books/pandas-workout
 - https://www.manning.com/books/time-series-forecasting-in-python-book
 - `apache` - [Apache common media types](http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types)
+- [Dive Into Python 3](https://diveintopython3.net/)
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 
 ## IDE
 
