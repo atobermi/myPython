@@ -63,6 +63,7 @@
 - [PipelineDP](https://github.com/OpenMined/PipelineDP) - PipelineDP is a framework for applying differentially private aggregations to large datasets
 - [httpx](https://www.python-httpx.org/) - A next-generation HTTP client for Python.
 - [Pydantic](https://towardsdatascience.com/how-to-make-the-most-of-pydantic-aa374d5c12d) - Explore techniques for data contract validation, higher interoperability with JSON Schemas, and simplified data model processing
+- [NetworkX](https://networkx.org/documentation/stable/_downloads/networkx_reference.pdf) - Software for complex networks
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
