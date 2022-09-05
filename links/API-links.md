@@ -12,3 +12,7 @@
 - [JSON Web Tokens](https://jwt.io/)
 - [JWCrypto](https://github.com/latchset/jwcrypto/tree/master/jwcrypto) - Vollimplementierung in Python
 - [HANKO](https://docs.hanko.io/) - Full developer documentation of Hanko Identity and the Hanko Authentication API
+
+## API SIM
+
+- [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
