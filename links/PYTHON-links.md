@@ -31,12 +31,10 @@
 - [Geeks4Geeks Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/)
 
 ## DataBase et cie
-
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
 - [sostore](https://noisefloor-net.blogspot.com/2013/08/sostore-eine-simple-objekt-datenbank.html) simple objekt-db mit sqllite
 
 ## Books
-
 - [Python Referenz Darvid M. Beazley](https://www.reportlab.com/media/imadj/data/RLIMG_f32c7c0a6db7b442726ebb8b3d3e3d0e.PDF)
 - https://www.manning.com/books/pandas-workout
 - https://www.manning.com/books/time-series-forecasting-in-python-book
@@ -45,7 +43,6 @@
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 
 ## IDE
-
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
 - [TabNine](https://www.tabnine.com/install)
 - [WING Python IDE](https://wingware.com/) 
@@ -53,7 +50,6 @@
 - [Kite](https://www.kite.com/python/docs/builtins.str.split) - Python Programming Pilot
 
 ## Libs
-
 - [FreezeGun: Let your Python tests travel through time](https://github.com/spulec/freezegun)
 - [Agnostic Github client API ](https://github.com/mozilla/agithub) - An EDSL for connecting to REST servers
 - [Faker](https://pypi.org/project/Faker/) - is a Python package that generates fake data for you
@@ -77,6 +73,7 @@
 - [Python Insider DE](http://blog-de.python.org/)
 - [20 Best Python Blogs](https://bloggingfordevs.com/python-blogs/)
 - [Working with Files I/O](https://abiakshar.medium.com/working-with-python-files-i-o-e734de03b967)
+- [rx-36](https://rx-36.life/post/make-a-sidebar-menu-with-css-grid-layout/)
 
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
