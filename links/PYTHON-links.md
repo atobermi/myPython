@@ -70,13 +70,10 @@
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
 
-
 ## Conf
-
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
 
 ## Blogs
-
 - [Python Insider DE](http://blog-de.python.org/)
 - [20 Best Python Blogs](https://bloggingfordevs.com/python-blogs/)
 - [Working with Files I/O](https://abiakshar.medium.com/working-with-python-files-i-o-e734de03b967)
@@ -94,7 +91,6 @@
 - [urllib](https://realpython.com/urllib-request/) - Python's urllib.request for HTTP Requests
 - [requests](https://realpython.com/python-requests/) - Python’s Requests Library (Guide)
 
-
 ## IOT
 - [MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python) - How to use MQTT in Python (Paho)
 - [MQTT](http://www.steves-internet-guide.com/into-mqtt-python-client/) - How to Use The Paho MQTT Python Client for Beginners
@@ -104,8 +100,10 @@
 ## Python & Docker
 - [3.11 in Docker](https://realpython.com/preview/python311-error-messages/) - link zu docker and pyhton
 
-## ReportLab
+## WebServer WSGI
+- [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/)
 
+## ReportLab
 - [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 - [Gen by Newton](https://vonkunesnewton.medium.com/generating-pdfs-with-reportlab-ced3b04aedef) - Generating pdfs with ReportLab
 - [repLab KurzInfo](https://wiki.ubuntuusers.de/ReportLab/)
@@ -119,7 +117,6 @@
 - [ReportLab freies Magazin](http://www.freiesmagazin.de/mobil/freiesMagazin-2010-04-bilder.html#10_04_reportLab)
 
 ## pdf gen
-
 - [fpdf2](https://pyfpdf.github.io/fpdf2/index.html) 
 - [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/) - wird nicht mehr gewartet --> fpdf2
 - [pdfrw](https://github.com/pmaupin/pdfrw#readme) - mit Beschreibung div pdf-libs
@@ -131,12 +128,10 @@
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 
 ## Div
-
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
 
 ## to be checked
-
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
 - [flet flutter apps](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
