@@ -29,6 +29,7 @@
 - [Schoenfeld](https://bodo-schoenfeld.de/python/)
 - [Python Tutorial](https://www.pythontutorial.net/) - tkinter ok
 - [Geeks4Geeks Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/)
+- [string-methods](https://www.pythonmorsels.com/string-methods/)
 
 ## DataBase et cie
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
