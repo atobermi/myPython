@@ -135,6 +135,8 @@
 - [Flask 2.2](https://flask.palletsprojects.com/en/2.2.x/)
 - [Flask](https://www.giulianopertile.com/blog/review-of-flask-from-a-django-developer/) - Review of Flask, From a Django Developer
 
+- [starlett-fast-admin](https://pypi.org/project/starlette-admin/) -  with sqlModel (wrapper für SQLAlchemy)
+
 ## to be checked
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
