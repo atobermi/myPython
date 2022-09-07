@@ -131,6 +131,7 @@
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
 
 ## Flask
+- [Flask 2.2](https://flask.palletsprojects.com/en/2.2.x/)
 - [Flask](https://www.giulianopertile.com/blog/review-of-flask-from-a-django-developer/) - Review of Flask, From a Django Developer
 
 ## to be checked
