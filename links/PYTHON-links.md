@@ -130,6 +130,9 @@
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
 
+## Flask
+- [Flask](https://www.giulianopertile.com/blog/review-of-flask-from-a-django-developer/) - Review of Flask, From a Django Developer
+
 ## to be checked
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
