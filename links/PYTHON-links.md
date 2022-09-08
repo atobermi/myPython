@@ -131,13 +131,12 @@
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
 
-## Flask
+## Frameworks
+- [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
 - [Flask 2.2](https://flask.palletsprojects.com/en/2.2.x/)
 - [Flask](https://www.giulianopertile.com/blog/review-of-flask-from-a-django-developer/) - Review of Flask, From a Django Developer
 
 - [starlett-fast-admin](https://pypi.org/project/starlette-admin/) -  with sqlModel (wrapper für SQLAlchemy)
-
-## FASTAPI
 - [Tutorial](https://fastapi.tiangolo.com/tutorial/)
 
 ## to be checked
