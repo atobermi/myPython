@@ -137,6 +137,9 @@
 
 - [starlett-fast-admin](https://pypi.org/project/starlette-admin/) -  with sqlModel (wrapper für SQLAlchemy)
 
+## FASTAPI
+- [Tutorial](https://fastapi.tiangolo.com/tutorial/)
+
 ## to be checked
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
