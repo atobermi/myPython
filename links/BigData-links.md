@@ -31,3 +31,4 @@
 
 ## Learing
 - [mlu](https://mlu-explain.github.io/linear-regression/) - linear regression
+- [Dive DeepLearning](http://preview.d2l.ai/d2l-en/master/index.html)
