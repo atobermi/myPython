@@ -28,3 +28,6 @@
 - [kafka](https://kafka.apache.org/) - homepage
 - [kafka-docker](https://github.com/wurstmeister/kafka-docker)
 - [OffsetExplorer](https://www.kafkatool.com/) by wurstmeister
+
+## Learing
+- [mlu](https://mlu-explain.github.io/linear-regression/) - linear regression
