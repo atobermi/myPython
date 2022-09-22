@@ -130,6 +130,7 @@
 ## Div
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
+- [morsels tips](https://www.pythonmorsels.com/resources/)
 
 ## Frameworks
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
