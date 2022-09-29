@@ -91,6 +91,9 @@
 - [urllib](https://realpython.com/urllib-request/) - Python's urllib.request for HTTP Requests
 - [requests](https://realpython.com/python-requests/) - Python’s Requests Library (Guide)
 
+## Compiler
+-[Mit Nuitka](https://nuitka.net/) - können Sie Python-Apps zu Standard-Executables kompilieren
+
 ## IOT
 - [MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python) - How to use MQTT in Python (Paho)
 - [MQTT](http://www.steves-internet-guide.com/into-mqtt-python-client/) - How to Use The Paho MQTT Python Client for Beginners
