@@ -41,3 +41,6 @@
 - [Docusaurus](https://docusaurus.io/docs) - will help you ship a beautiful documentation site in no time.
 - [arc42](https://www.heise.de/developer/artikel/Episode-90-arc42-ein-pragmatischer-Ansatz-zur-Dokumentation-6302741.html) – ein pragmatischer Ansatz zur Dokumentation (open-source)
 - [Antora](https://docs.antora.org/antora/latest/) - The Static Site Generator for Tech Writers
+
+## other tools
+- [Datawrapper](https://www.datawrapper.de)
