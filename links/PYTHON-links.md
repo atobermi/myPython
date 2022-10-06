@@ -130,6 +130,9 @@
 - [Constants](https://realpython.com/python-constants/) - Python Constants: Improve Your Code's Maintainability
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 
+## tools
+- [rehal](https://www.reahl.org/dynamiccontent)
+
 ## Div
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
@@ -139,9 +142,7 @@
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
 - [Flask 2.2](https://flask.palletsprojects.com/en/2.2.x/)
 - [Flask](https://www.giulianopertile.com/blog/review-of-flask-from-a-django-developer/) - Review of Flask, From a Django Developer
-
--[DBMF](http://trco.silkym.com/dbmf/) - Django Bootstrap Modal Forms
-
+- [DBMF](http://trco.silkym.com/dbmf/) - Django Bootstrap Modal Forms
 - [starlett-fast-admin](https://pypi.org/project/starlette-admin/) -  with sqlModel (wrapper für SQLAlchemy)
 - [Tutorial](https://fastapi.tiangolo.com/tutorial/)
 
