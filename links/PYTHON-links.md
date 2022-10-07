@@ -144,10 +144,22 @@
 - [Flask](https://www.giulianopertile.com/blog/review-of-flask-from-a-django-developer/) - Review of Flask, From a Django Developer
 - [DBMF](http://trco.silkym.com/dbmf/) - Django Bootstrap Modal Forms
 - [starlett-fast-admin](https://pypi.org/project/starlette-admin/) -  with sqlModel (wrapper für SQLAlchemy)
-- [Tutorial](https://fastapi.tiangolo.com/tutorial/)
+- [Tutorial FastApi](https://fastapi.tiangolo.com/tutorial/)
+- [turbogears](https://turbogears.org/index.html)
+
+## Pyramid
+
+- [pylons](https://pylonsproject.org/) - Pylons Project We build Web Technologies for the Python community
+
+- [Pyramid](https://trypyramid.com/)
+- [Chameleon](https://chameleon.readthedocs.io/en/latest/) - Chameleon is an HTML/XML template engine for Python.
+- [jinja2](https://jinja.palletsprojects.com/en/3.1.x/) - template engine
+- [fullstack pyramid](https://www.fullstackpython.com/pyramid.html) 
+-
 
 ## to be checked
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
 - [flet flutter apps](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
+- [influx](https://www.influxdata.com/blog/start-python-influxdb/?utm_source=vendor&utm_medium=referral&utm_campaign=2022-08_spnsr-nl_start-python-influxdb&utm_content=realpython) - with python
 
