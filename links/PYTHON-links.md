@@ -151,6 +151,7 @@
 ## Pyramid
 
 - [pylons](https://pylonsproject.org/) - Pylons Project We build Web Technologies for the Python community
+- [Pyramid forms doc](https://coneapp.readthedocs.io/en/latest/forms.html)
 - [Pyramid](https://trypyramid.com/)
 - [Chameleon](https://chameleon.readthedocs.io/en/latest/) - Chameleon is an HTML/XML template engine for Python.
 - [jinja2](https://jinja.palletsprojects.com/en/3.1.x/) - template engine
