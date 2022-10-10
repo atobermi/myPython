@@ -140,6 +140,7 @@
 
 ## Frameworks
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
+- [FW-best](https://steelkiwi.com/blog/best-python-web-frameworks-to-learn/)
 - [Flask 2.2](https://flask.palletsprojects.com/en/2.2.x/)
 - [Flask](https://www.giulianopertile.com/blog/review-of-flask-from-a-django-developer/) - Review of Flask, From a Django Developer
 - [DBMF](http://trco.silkym.com/dbmf/) - Django Bootstrap Modal Forms
