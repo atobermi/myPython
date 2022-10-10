@@ -163,4 +163,5 @@
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
 - [flet flutter apps](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
 - [influx](https://www.influxdata.com/blog/start-python-influxdb/?utm_source=vendor&utm_medium=referral&utm_campaign=2022-08_spnsr-nl_start-python-influxdb&utm_content=realpython) - with python
+- [blog opensource](https://opensource.com/tags/python)
 
