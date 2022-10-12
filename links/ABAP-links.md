@@ -16,6 +16,10 @@
 
 - <a href="https://blogs.sap.com/2013/11/21/useful-keyboard-shortcuts-for-abap-in-eclipse/">ABAP Eclipse Shortcuts</a>
   
+## Cloud
+- [SAP S/4HANA Fully-Activated Appliance](https://blogs.sap.com/2018/12/12/sap-s4hana-fully-activated-appliance-create-your-sap-s4hana-1809-system-in-a-fraction-of-the-usual-setup-time/)
+- [SAP S/4HANA DemoGuides](https://blogs.sap.com/2019/04/23/sap-s4hana-fully-activated-appliance-demo-guides/)
+  
 ## SAP Blogs
   
 - [Horst Keller](https://people.sap.com/horst.keller/#content") - Hinweise zur ABAP language
