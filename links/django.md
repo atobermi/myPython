@@ -5,3 +5,4 @@
 - [BootStrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Mastering Django](https://masteringdjango.com/)
 - [beginners guide](https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html)
+- -[Cust Admin](https://realpython.com/customize-django-admin-python/) - Customize the Django Admin With Python
