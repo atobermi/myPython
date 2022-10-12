@@ -63,6 +63,7 @@
 - [Pydantic](https://towardsdatascience.com/how-to-make-the-most-of-pydantic-aa374d5c12d) - Explore techniques for data contract validation, higher interoperability with JSON Schemas, and simplified data model processing
 - [NetworkX](https://networkx.org/documentation/stable/_downloads/networkx_reference.pdf) - Software for complex networks
 - [Werkzeug](https://werkzeug.palletsprojects.com/en/2.2.x/tutorial/#introducing-shortly)
+- [pandera](https://pandera.readthedocs.io/en/stable/) - A data validation library for scientists, engineers, and analysts seeking correctness
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
