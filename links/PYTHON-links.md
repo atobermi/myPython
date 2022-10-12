@@ -148,6 +148,7 @@
 - [starlett-fast-admin](https://pypi.org/project/starlette-admin/) -  with sqlModel (wrapper für SQLAlchemy)
 - [Tutorial FastApi](https://fastapi.tiangolo.com/tutorial/)
 - [turbogears](https://turbogears.org/index.html)
+- [panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 
 ## Pyramid
 
