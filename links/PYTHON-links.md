@@ -152,8 +152,22 @@
 - [turbogears](https://turbogears.org/index.html)
 - [panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 
-## Pyramid
+## Django
+- [start prj](https://www.valentinog.com/blog/django-start/) django quickstart
+- [user interactive forms](https://www.mattlayman.com/understand-django/user-interaction-forms/)
+- [Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
+- [w3](https://www.w3schools.com/django/index.php) w3school django
+- [BootStrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [Mastering Django](https://masteringdjango.com/)
+- [beginners guide](https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html)
+- [Cust Admin](https://realpython.com/customize-django-admin-python/) - Customize the Django Admin With Python
+- [Tutorial](http://django-marcador.keimlink.de/) - django-marcador Basic Django Tutorial
+- [Tut DE-ok](https://tutorial.djangogirls.org/de/django_start_project/) - Django Girls Tutorial
+- [spapas](https://spapas.github.io/category/django.html) - div info
+- [djblest](https://www.reviewboard.org/docs/djblets/3.x/) - Djblets Documentation
+- [js->djdtmp](https://adamj.eu/tech/2022/10/06/how-to-safely-pass-data-to-javascript-in-a-django-template/) - How to Safely Pass Data to JavaScript in a Django Template
 
+## Pyramid
 - [pylons](https://pylonsproject.org/) - Pylons Project We build Web Technologies for the Python community
 - [Pyramid forms doc](https://coneapp.readthedocs.io/en/latest/forms.html)
 - [Pyramid](https://trypyramid.com/)
