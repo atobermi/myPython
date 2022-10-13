@@ -5,4 +5,8 @@
 - [BootStrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Mastering Django](https://masteringdjango.com/)
 - [beginners guide](https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html)
-- -[Cust Admin](https://realpython.com/customize-django-admin-python/) - Customize the Django Admin With Python
+- [Cust Admin](https://realpython.com/customize-django-admin-python/) - Customize the Django Admin With Python
+- [Tutorial](http://django-marcador.keimlink.de/) - django-marcador Basic Django Tutorial
+- [Tut DE-ok](https://tutorial.djangogirls.org/de/django_start_project/) - Django Girls Tutorial
+- [spapas](https://spapas.github.io/category/django.html) - div info
+- [djblest](https://www.reviewboard.org/docs/djblets/3.x/) - Djblets Documentation
