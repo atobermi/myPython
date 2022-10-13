@@ -132,7 +132,7 @@
 - [Constants](https://realpython.com/python-constants/) - Python Constants: Improve Your Code's Maintainability
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 - [bb](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) - All the Ways To Introspect Python Objects at Runtime
---[cc](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49) - 12 Beginner Concepts About Type Hints To Improve Your Python Code
+-[cc](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49) - 12 Beginner Concepts About Type Hints To Improve Your Python Code
 ## tools
 - [rehal](https://www.reahl.org/dynamiccontent)
 
