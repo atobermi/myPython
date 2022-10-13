@@ -4,3 +4,12 @@ import copy
 
 shallow_copy_list = copy.copy(original_list)
 deepcopy_list = copy.deepcopy(original_list)
+
+
+# relativ vom aktullen file !!!
+
+import os
+path = os.path.dirname(__file__)
+
+from chameleon import PageTemplateLoader
+templates = PageTemplateLoader(os.path.join(path, "templates"))
