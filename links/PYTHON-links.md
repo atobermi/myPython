@@ -105,8 +105,9 @@
 ## Python & Docker
 - [3.11 in Docker](https://realpython.com/preview/python311-error-messages/) - link zu docker and pyhton
 
-## WebServer WSGI
+## Web & al
 - [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/)
+- [pelikan](https://getpelican.com/) - Static site generator powered by Python
 
 ## ReportLab
 - [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
