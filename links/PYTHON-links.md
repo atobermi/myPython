@@ -160,6 +160,9 @@
 - [fullstack pyramid](https://www.fullstackpython.com/pyramid.html) 
 -
 
+## you-tube
+- [1](https://youtu.be/u8g9scXeAcI) - loops iterator pycon17
+
 ## to be checked
 - [cairographics](https://www.cairographics.org/)
 - [nuitka](https://nuitka.net/posts/nuitka-release-10.html) - python compiler
