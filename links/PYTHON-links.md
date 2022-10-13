@@ -108,7 +108,7 @@
 ## Web & al
 - [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/)
 - [pelikan](https://getpelican.com/) - Static site generator powered by Python
-
+- [htmx](https://htmx.org/docs/#introduction)
 ## ReportLab
 - [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 - [Gen by Newton](https://vonkunesnewton.medium.com/generating-pdfs-with-reportlab-ced3b04aedef) - Generating pdfs with ReportLab
