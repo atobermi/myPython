@@ -14,6 +14,7 @@
 ## Fonts
 
 - [Roboto](https://fonts.google.com/specimen/Roboto#standard-styles) - google fonts
+- [datawrapper](https://blog.datawrapper.de/fonts-for-data-visualization/) - Which fonts to use for your charts and tables
 
 ## Resources
 - [res4dev](https://github.com/bradtraversy/design-resources-for-developers)
