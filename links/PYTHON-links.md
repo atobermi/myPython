@@ -191,3 +191,5 @@
 - [influx](https://www.influxdata.com/blog/start-python-influxdb/?utm_source=vendor&utm_medium=referral&utm_campaign=2022-08_spnsr-nl_start-python-influxdb&utm_content=realpython) - with python
 - [blog opensource](https://opensource.com/tags/python)
 
+## DB
+- [bit.io](https://bit.io/)
