@@ -134,13 +134,17 @@
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 - [bb](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) - All the Ways To Introspect Python Objects at Runtime
 -[cc](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49) - 12 Beginner Concepts About Type Hints To Improve Your Python Code
+
 ## tools
 - [rehal](https://www.reahl.org/dynamiccontent)
+- [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool
+
 
 ## Div
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
 - [morsels tips](https://www.pythonmorsels.com/resources/)
+- [pysemtec](https://github.com/pysemtec/semantic-python-overview) - Semantic Python Overview
 
 ## Frameworks
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
