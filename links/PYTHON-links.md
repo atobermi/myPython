@@ -183,6 +183,10 @@
 - [fullstack pyramid](https://www.fullstackpython.com/pyramid.html) 
 -
 
+## dev
+- [dfm](https://dfm.io/posts/simple-python-module/) - What if I want to reuse my Python functions?
+
+
 ## you-tube
 - [1](https://youtu.be/u8g9scXeAcI) - loops iterator pycon17
 
