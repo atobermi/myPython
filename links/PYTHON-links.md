@@ -185,6 +185,7 @@
 
 ## dev
 - [dfm](https://dfm.io/posts/simple-python-module/) - What if I want to reuse my Python functions?
+- [API](https://github.com/FORCAM-FORCE-Bridge-API/samples-python) - forcam api samples python
 
 
 ## you-tube
