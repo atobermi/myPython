@@ -11,3 +11,4 @@
 ## et al.
 
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [metal-stack](https://github.com/metal-stack/mini-lab)
