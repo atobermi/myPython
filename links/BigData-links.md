@@ -4,6 +4,7 @@
 
 - [Die besten Tools für TensorFlow](https://www.computerwoche.de/a/die-besten-tools-fuer-tensorflow,3547391) (aus CW)
 - [abc](https://github.com/aharley/nn_vis) - An Interactive Node-Link Visualization of Convolutional Neural Networks
+- [neuron](http://neuralnetworksanddeeplearning.com/) - Neural Networks and Deep Learning - free book
 
 ## DataBases for BigData&Analytics 
 
