@@ -175,6 +175,7 @@
 - [spapas](https://spapas.github.io/category/django.html) - div info
 - [djblest](https://www.reviewboard.org/docs/djblets/3.x/) - Djblets Documentation
 - [js->djdtmp](https://adamj.eu/tech/2022/10/06/how-to-safely-pass-data-to-javascript-in-a-django-template/) - How to Safely Pass Data to JavaScript in a Django Template
+- [riffs](https://www.mattlayman.com/django-riffs/accepting-files/) - accepting files
 
 ## Pyramid
 - [pylons](https://pylonsproject.org/) - Pylons Project We build Web Technologies for the Python community
