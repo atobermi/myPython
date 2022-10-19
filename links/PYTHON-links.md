@@ -70,6 +70,7 @@
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
 - [fusion-charts](https://www.fusioncharts.com/) - django backend - how to do dashboards
+- [arrow](https://arrow.apache.org/docs/) - Apache Arrow is a development platform for in-memory analytics.
 
 ## Conf
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
