@@ -151,6 +151,7 @@
 - [async](https://www.b-list.org/weblog/2022/aug/16/async/) - Understanding async Python for the web
 - [morsels tips](https://www.pythonmorsels.com/resources/)
 - [pysemtec](https://github.com/pysemtec/semantic-python-overview) - Semantic Python Overview
+- [auto](https://python.plainenglish.io/10-python-mini-automation-projects-177cbd01f0a4) - automation projects excel-file gen
 
 ## Frameworks
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
@@ -202,6 +203,7 @@
 - [flet flutter apps](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
 - [influx](https://www.influxdata.com/blog/start-python-influxdb/?utm_source=vendor&utm_medium=referral&utm_campaign=2022-08_spnsr-nl_start-python-influxdb&utm_content=realpython) - with python
 - [blog opensource](https://opensource.com/tags/python)
+- [13](https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9) - 13 ways to scrape any public data from any website
 
 ## DB
 - [bit.io](https://bit.io/)
