@@ -35,6 +35,7 @@
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
 - [sostore](https://noisefloor-net.blogspot.com/2013/08/sostore-eine-simple-objekt-datenbank.html) simple objekt-db mit sqllite
 - [SQLAlchemy Tut](https://www.datacamp.com/tutorial/sqlalchemy-tutorial-examples)
+- [crunchy](https://www.crunchydata.com/) - postgress cloud and kubernetes 4 postgress
 
 ## Books
 - [Python Referenz Darvid M. Beazley](https://www.reportlab.com/media/imadj/data/RLIMG_f32c7c0a6db7b442726ebb8b3d3e3d0e.PDF)
