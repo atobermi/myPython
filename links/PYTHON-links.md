@@ -71,6 +71,7 @@
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
 - [fusion-charts](https://www.fusioncharts.com/) - django backend - how to do dashboards
 - [arrow](https://arrow.apache.org/docs/) - Apache Arrow is a development platform for in-memory analytics.
+- [pyarrow](https://arrow.apache.org/cookbook/py/io.html) - Arrow Python Cookbook (parque...)
 
 ## Conf
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
