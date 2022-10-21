@@ -28,6 +28,7 @@
 ## Tutorials et cie
 - [Schoenfeld](https://bodo-schoenfeld.de/python/)
 - [Python Tutorial](https://www.pythontutorial.net/) - tkinter ok
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Geeks4Geeks Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/)
 - [string-methods](https://www.pythonmorsels.com/string-methods/)
 
