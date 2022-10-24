@@ -17,6 +17,7 @@
 
 - [DevShow](https://youtu.be/yr8F2S3Amas) - on youtube
 - [HackerNewsAPI](https://github.com/HackerNews/API) - simple API by REST-calls, no auth
+- [fake-api](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
 
 
 ## Books
