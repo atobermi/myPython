@@ -2,9 +2,9 @@
 - [](https://dart.dev/#try-dart) - DART interaktiv
 - [install](https://www.javatpoint.com/flutter-installation) - Flutter Installation java T point Tutorial et al
 
-## Specials
+## Packages
 
-
+- [built](https://pub.dev/packages/built_value) - AutoValue solves the problem for Java with code generation, and Built Values does the same for Dart
 
 ## async
 - [BLoC](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) - reactive programming streams
