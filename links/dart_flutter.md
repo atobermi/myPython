@@ -22,3 +22,4 @@
 
 ## Books
 - [Dart and Flutter](https://fluttercompletereference.com/) - ultimate reference
+- [2Web](https://github.com/PacktPublishing/Taking-Flutter-to-the-Web)
