@@ -1,5 +1,7 @@
 ## Basics
+- [Dart and Flutter](https://fluttercompletereference.com/) - ultimate reference
 - [](https://dart.dev/#try-dart) - DART interaktiv
+- [install](https://www.javatpoint.com/flutter-installation) - Flutter Installation java T point Tutorial et al
 
 ## Specials
 
