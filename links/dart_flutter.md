@@ -1,5 +1,5 @@
 ## Basics
-
+- [](https://dart.dev/#try-dart) - DART interaktiv
 
 ## Specials
 
@@ -10,3 +10,9 @@
 - [rxdart](https://pub.dev/packages/rxdart)
 - [ReactiveX](https://reactivex.io/) - An API for asynchronous programming with observable streams
 - [bloc](https://bloclibrary.dev/#/) - a predictable state management library for Dart.
+
+
+## examples in Boring Development Show
+
+- [DevShow](https://youtu.be/yr8F2S3Amas) - on youtube
+- [HackerNewsAPI](https://github.com/HackerNews/API) - simple API by REST-calls, no auth
