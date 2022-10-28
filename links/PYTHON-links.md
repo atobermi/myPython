@@ -141,6 +141,7 @@
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 - [bb](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) - All the Ways To Introspect Python Objects at Runtime
 -[cc](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49) - 12 Beginner Concepts About Type Hints To Improve Your Python Code
+-[exam](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb) - 190 Python Projects with Source Code
 
 ## tools
 - [rehal](https://www.reahl.org/dynamiccontent)
