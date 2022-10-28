@@ -31,7 +31,7 @@
 - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Geeks4Geeks Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/)
 - [string-methods](https://www.pythonmorsels.com/string-methods/)
-- [codesolid](https://codesolid.com/matplotlib-coordinates-toward-a-python-graphing-calculator/)
+- [codesolid](https://codesolid.com/matplotlib-coordinates-toward-a-python-graphing-calculator/) - Matplotlib Coordinates: Graphing Math Functions in Python
 
 ## DataBase et cie
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
