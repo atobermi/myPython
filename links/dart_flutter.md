@@ -29,3 +29,4 @@
 
 ## reactive prog
 - [staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing
+- [reactive block](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) - Streams, Bloc and Reactive Programming. Theory and practical examples
