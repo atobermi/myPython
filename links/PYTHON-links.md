@@ -116,6 +116,7 @@
 - [pelikan](https://getpelican.com/) - Static site generator powered by Python
 - [htmx](https://htmx.org/docs/#introduction)
 - [datatable](https://datatables.net/examples/styling/uikit.html)
+- [api](https://superfastpython.com/python-concurrency-choose-api/) - How to Choose the Right Python Concurrency API
 
 ## ReportLab
 - [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
