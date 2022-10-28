@@ -6,6 +6,7 @@
 
 - [built](https://pub.dev/packages/built_value) - AutoValue solves the problem for Java with code generation, and Built Values does the same for Dart articles
 - [toast](https://pub.dev/packages/fluttertoast)
+- [getIT](https://pub.dev/packages/get_it) - simple Service Locator for Dart and Flutter projects with some additional goodies highly inspired by Splat
 
 ## async
 - [BLoC](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) - reactive programming streams
