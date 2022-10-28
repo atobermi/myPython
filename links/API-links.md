@@ -16,3 +16,6 @@
 ## API SIM
 
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+
+## API dev
+- [TMDB](https://www.themoviedb.org/documentation/api) - Millions of movies, TV shows and people to discover. Explore now.
