@@ -1,10 +1,11 @@
-## Basics
+♥]## Basics
 - [](https://dart.dev/#try-dart) - DART interaktiv
 - [install](https://www.javatpoint.com/flutter-installation) - Flutter Installation java T point Tutorial et al
 
 ## Packages
 
-- [built](https://pub.dev/packages/built_value) - AutoValue solves the problem for Java with code generation, and Built Values does the same for Dart
+- [built](https://pub.dev/packages/built_value) - AutoValue solves the problem for Java with code generation, and Built Values does the same for Dart articles
+- [toast](https://pub.dev/packages/fluttertoast)
 
 ## async
 - [BLoC](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) - reactive programming streams
@@ -31,3 +32,10 @@
 ## reactive prog
 - [staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing
 - [reactive block](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) - Streams, Bloc and Reactive Programming. Theory and practical examples
+
+## web
+- [web](https://docs.flutter.dev/get-started/web) - get started web
+
+## example
+- [todo](https://gitlab.com/brianegan/flutter_architecture_samples/tree/master/example/built_redux) - An example Todo app created with built_value, built_redux, and flutter_built_redux.
+- [togo](https://github.com/BenCoepp/basic_time_tracker_flutter) - basic time tracker
