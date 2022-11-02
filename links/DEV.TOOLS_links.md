@@ -20,6 +20,9 @@
 - [flutter](https://flutter.dev/) Build apps for any screen, powered by Google
 - [WebAssemblyComponents](https://radu-matei.com/blog/intro-wasm-components/) - Introduction to WebAssembly components radu's blogs
 
+## DB
+- [duckdb](https://duckdb.org/why_duckdb)
+
 ## Fun
 - [Writing a simple 16 bit VM in less than 125 lines of C](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
 
@@ -30,6 +33,7 @@
 - [mermaid](https://mermaid-js.github.io/mermaid/) - create diagrams and visualizations using text and code
 - [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf)
 - [M. Fowler - Injections](https://martinfowler.com/articles/injection.html)
+- [/thoughtworks](https://www.thoughtworks.com/radar/platforms?blipid=202210070)
 
 ## Standards
 
@@ -46,3 +50,7 @@
 ## other tools
 - [Datawrapper](https://www.datawrapper.de)
 - [Retool](https://atobermi.retool.com/) - low-code platform  to query and visualize data. 
+
+## docker
+
+- [colima](https://github.com/abiosoft/colima)
