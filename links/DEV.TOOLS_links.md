@@ -11,6 +11,8 @@
 
 ## Tools
 - [curl](https://curl.se/) - command line tool and library for transferring data with URLs (since 1998)
+- [Fake SMTP Server](https://github.com/gessnerfl/fake-smtp-server)
+- [mountebank](https://www.mbtest.org/) -  exposes the sent emails through a REST AP
 
 ## Web
 - [Ruby On Rails](https://rubyonrails.org/)
@@ -43,3 +45,4 @@
 
 ## other tools
 - [Datawrapper](https://www.datawrapper.de)
+- [Retool](https://atobermi.retool.com/) - low-code platform  to query and visualize data. 
