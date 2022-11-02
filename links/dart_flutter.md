@@ -40,3 +40,12 @@
 ## example
 - [todo](https://gitlab.com/brianegan/flutter_architecture_samples/tree/master/example/built_redux) - An example Todo app created with built_value, built_redux, and flutter_built_redux.
 - [togo](https://github.com/BenCoepp/basic_time_tracker_flutter) - basic time tracker
+
+## books
+
+Learn Google Flutter Fast: 65 Example Apps (English Edition)  10EUR
+Flutter Cookbook: Over 100 proven techniques and solutions for app development with Flutter 2.2 and Dart 40
+Introduction to Flutter : Flutter for Dekstop Development (English Edition) 10
+Cross-Platform UIs with Flutter: Unlock the ability to create native multiplatform UIs using a single code base with Flutter 3
+aking Flutter to the Web
+
