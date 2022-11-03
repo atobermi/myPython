@@ -68,6 +68,7 @@
 - [NetworkX](https://networkx.org/documentation/stable/_downloads/networkx_reference.pdf) - Software for complex networks
 - [Werkzeug](https://werkzeug.palletsprojects.com/en/2.2.x/tutorial/#introducing-shortly)
 - [pandera](https://pandera.readthedocs.io/en/stable/) - A data validation library for scientists, engineers, and analysts seeking correctness
+- [log2d](https://medium.com/@petefison/logging-in-python-doesnt-get-simpler-than-this-50a7f24af1f4)
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
