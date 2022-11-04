@@ -197,7 +197,7 @@
 - [adam johnson](https://adamj.eu/projects/) - div projects django-htmx
 
 ## special 
-- [atoti](https://docs.atoti.io/latest/index.html) - 
+- [atoti](https://docs.atoti.io/latest/index.html) - cube analytic mit pyhton 
 
 ## Pyramid
 - [pylons](https://pylonsproject.org/) - Pylons Project We build Web Technologies for the Python community
