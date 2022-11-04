@@ -189,6 +189,7 @@
 - [js->djdtmp](https://adamj.eu/tech/2022/10/06/how-to-safely-pass-data-to-javascript-in-a-django-template/) - How to Safely Pass Data to JavaScript in a Django Template
 - [riffs](https://www.mattlayman.com/django-riffs/accepting-files/) - accepting files
 - [haystack](https://django-haystack.readthedocs.io/en/master/) - Haystack provides modular search for Django.
+- [adam johnson](https://adamj.eu/projects/) - div projects django-htmx
 
 
 
