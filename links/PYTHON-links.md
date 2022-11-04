@@ -79,6 +79,7 @@
 - [pyarrow](https://arrow.apache.org/cookbook/py/io.html) - Arrow Python Cookbook (parque...)
 - [data](https://courses.spatialthoughts.com/python-dataviz.html) - Mapping and Data Visualization with Python (Full Course Material)
 - [example-plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_411) - plots economics übersicht
+- [Panel](https://panel.holoviz.org/index.html) - A high-level app and dashboarding solution for Python 
 
 ## Conf
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
