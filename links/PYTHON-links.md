@@ -96,6 +96,9 @@
 - [H2O Wave](https://h2o.ai/platform/ai-cloud/make/h2o-wave/) -Python dev framework 4 real-time interactive AI apps with sophisticated visualizations.
 - TensorFlow, PyTorch, JAX, MXNet
 - [rstudio-flask](https://www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/) - jumping river
+- [deep learning](http://preview.d2l.ai/d2l-en/master/index.html) - interactive book with code, math, and discussions PyTorch, NumPy/MXNet, and TensorFlow
+
+
 
 ## Tutorials
 - [Queue](https://pymotw.com/2/Queue/) - Queue – A thread-safe FIFO implementation
@@ -147,7 +150,7 @@
 - [Constants](https://realpython.com/python-constants/) - Python Constants: Improve Your Code's Maintainability
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 - [bb](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) - All the Ways To Introspect Python Objects at Runtime
--[cc](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49) - 12 Beginner Concepts About Type Hints To Improve Your Python Code
+- [cc](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49) - 12 Beginner Concepts About Type Hints To Improve Your Python Code
 -[exam](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb) - 190 Python Projects with Source Code
 
 ## tools
@@ -172,6 +175,7 @@
 - [Tutorial FastApi](https://fastapi.tiangolo.com/tutorial/)
 - [turbogears](https://turbogears.org/index.html)
 - [panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
+- [cone.app](https://coneapp.readthedocs.io/en/latest/index.html) -  offers a Web Application Stub built on top of the Pyramid framework.
 
 ## Django
 - [start prj](https://www.valentinog.com/blog/django-start/) django quickstart
@@ -191,7 +195,8 @@
 - [haystack](https://django-haystack.readthedocs.io/en/master/) - Haystack provides modular search for Django.
 - [adam johnson](https://adamj.eu/projects/) - div projects django-htmx
 
-
+## special 
+- [atoti](https://docs.atoti.io/latest/index.html) - 
 
 ## Pyramid
 - [pylons](https://pylonsproject.org/) - Pylons Project We build Web Technologies for the Python community
