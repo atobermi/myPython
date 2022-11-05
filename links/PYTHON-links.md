@@ -89,6 +89,7 @@
 - [20 Best Python Blogs](https://bloggingfordevs.com/python-blogs/)
 - [Working with Files I/O](https://abiakshar.medium.com/working-with-python-files-i-o-e734de03b967)
 - [rx-36](https://rx-36.life/post/make-a-sidebar-menu-with-css-grid-layout/)
+- [medium](https://medium.com/)
 
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
