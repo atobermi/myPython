@@ -100,6 +100,8 @@
 - [rstudio-flask](https://www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/) - jumping river
 - [deep learning](http://preview.d2l.ai/d2l-en/master/index.html) - interactive book with code, math, and discussions PyTorch, NumPy/MXNet, and TensorFlow
 
+## ext lib
+- [datatables](https://datatables.net/manual/api) - DataTables and Editor configured browser, embedded app.
 
 
 ## Tutorials
