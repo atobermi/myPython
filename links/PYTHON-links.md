@@ -70,6 +70,7 @@
 - [pandera](https://pandera.readthedocs.io/en/stable/) - A data validation library for scientists, engineers, and analysts seeking correctness
 - [log2d](https://medium.com/@petefison/logging-in-python-doesnt-get-simpler-than-this-50a7f24af1f4)
 - [icecream ic](https://medium.com/towards-data-science/introducing-icecream-never-use-print-to-debug-your-python-code-again-d8f2e5719f8a) - logging
+- [lxml](https://lxml.de/) - lxml - XML and HTML with Python basierend C libraries libxml2 and libxslt.
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
