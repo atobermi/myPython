@@ -161,6 +161,7 @@
 ## tools
 - [rehal](https://www.reahl.org/dynamiccontent)
 - [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool
+- [SPyQL](https://danielcmoura.com/blog/2022/spyql-cell-towers/) - Command-line data analytics made easy
 
 
 ## Div
