@@ -92,6 +92,10 @@
 - [rx-36](https://rx-36.life/post/make-a-sidebar-menu-with-css-grid-layout/)
 - [medium](https://medium.com/)
 
+## Journal
+- [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
+
+
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
 - [CuPy](https://cupy.dev/) - NumPy/SciPy-compatible Array Library for GPU-accelerated Computing with Python
