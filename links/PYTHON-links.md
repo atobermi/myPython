@@ -166,6 +166,7 @@
 - [rehal](https://www.reahl.org/dynamiccontent)
 - [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool
 - [SPyQL](https://danielcmoura.com/blog/2022/spyql-cell-towers/) - Command-line data analytics made easy
+- [jq](https://stedolan.github.io/jq/) - q is a lightweight and flexible command-line JSON processor.
 
 
 ## Div
@@ -187,6 +188,7 @@
 - [panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [cone.app](https://coneapp.readthedocs.io/en/latest/index.html) -  offers a Web Application Stub built on top of the Pyramid framework.
 - [ionic](https://ionicframework.com/docs/components)
+- [snowflake](https://quickstarts.snowflake.com/guide/build_a_custom_api_in_python_on_aws/index.html) - api beispiel
 
 ## Django
 - [start prj](https://www.valentinog.com/blog/django-start/) django quickstart
