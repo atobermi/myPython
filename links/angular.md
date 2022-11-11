@@ -18,6 +18,6 @@
 
 ## examples
 
-- [Standalon](https://github.com/manfredsteyer/standalone-example-cli) - quick setup
+- [Standalon](https://github.com/manfredsteyer/standalone-example-cli) - Standalone APIs for HttpClient code ( quick setup )
 - [ang15](https://www.angulararchitects.io/aktuelles/the-refurbished-httpclient-in-angular-15-standalone-apis-and-functional-interceptors) - standalone api
 - 
