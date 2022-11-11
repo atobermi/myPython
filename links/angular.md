@@ -15,3 +15,9 @@
 
 - [AngularArchitects](https://www.angulararchitects.io/en/)
 - [ang ts prj](https://blog.codewithdan.com/10-angular-and-typescript-projects-to-take-you-from-zero-to-hero/)
+
+## examples
+
+- [Standalon](https://github.com/manfredsteyer/standalone-example-cli) - quick setup
+- [ang15](https://www.angulararchitects.io/aktuelles/the-refurbished-httpclient-in-angular-15-standalone-apis-and-functional-interceptors) - standalone api
+- 
