@@ -243,6 +243,8 @@
 ## DB
 - [bit.io](https://bit.io/)
 
+## FRONTEND
+- [solid](https://www.solidjs.com/)
 ## prjmgmt
 - [onepoint](https://www.onepoint-projects.com/de)
 - [openprojects](https://www.openproject.org/)
