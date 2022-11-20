@@ -15,7 +15,7 @@
 
 - [AngularArchitects](https://www.angulararchitects.io/en/)
 - [ang ts prj](https://blog.codewithdan.com/10-angular-and-typescript-projects-to-take-you-from-zero-to-hero/)
-
+- [blog](https://www.thirdrocktechkno.com/blog/8-best-angular-ui-frameworks-for-web-development/) - 8 Best Angular Frameworks For UI in Web Development
 ## examples
 
 - [Standalon](https://github.com/manfredsteyer/standalone-example-cli) - Standalone APIs for HttpClient code ( quick setup )
