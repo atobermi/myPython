@@ -24,3 +24,7 @@
 - [Standalon](https://github.com/manfredsteyer/standalone-example-cli) - Standalone APIs for HttpClient code ( quick setup )
 - [ang15](https://www.angulararchitects.io/aktuelles/the-refurbished-httpclient-in-angular-15-standalone-apis-and-functional-interceptors) - standalone api
 - 
+
+## picture
+- [imgix](https://imgix.com/) -  Visual Media,One Powerful Platform
+- [NgOptimizedImage](https://developer.chrome.com/blog/angular-image-directive/)
