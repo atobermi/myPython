@@ -1,3 +1,6 @@
+## Angular blog
+- [v15](https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8)
+
 ## tools
 - [dynamic forms](https://colinrickels865.medium.com/angular-dynamic-form-generator-81f63c7fb47a)
 - [FormGen](https://mackentoch.github.io/easyFormGenerator/)
