@@ -85,6 +85,7 @@
 
 ## odata
 - [odata.org](https://www.odata.org/libraries/)
+- [pyodata](https://pyodata.readthedocs.io/en/latest/usage/initialization.html#get-the-service-proxy-client-for-an-odata-service-requiring-sap-client-parameter) - Python agnostic implementation of OData client library.
 
 ## Conf
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
