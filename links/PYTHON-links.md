@@ -83,6 +83,9 @@
 - [example-plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_411) - plots economics übersicht
 - [Panel](https://panel.holoviz.org/index.html) - A high-level app and dashboarding solution for Python 
 
+## odata
+- [odata.org](https://www.odata.org/libraries/)
+
 ## Conf
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
 
