@@ -9,6 +9,8 @@
 ## java
 - [dev moz](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
+## div
+- [Events](https://egghead.io/lessons/angular-consuming-events-as-observables-in-angular-2) - Consuming events as Observables in Angular 2
 
 ## angular tutorial
 - [tut-de](https://angular.de/artikel/angular-tutorial-deutsch/)
