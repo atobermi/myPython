@@ -118,6 +118,7 @@
 - [Queue](https://pymotw.com/2/Queue/) - Queue – A thread-safe FIFO implementation
 - [urllib](https://realpython.com/urllib-request/) - Python's urllib.request for HTTP Requests
 - [requests](https://realpython.com/python-requests/) - Python’s Requests Library (Guide)
+- [Advanced course on Python3](https://github.com/MoserMichael/python-obj-system/blob/master/README.md) - e.g. Python object primer for Python3 / meta classes
 
 ## Compiler
 -[Mit Nuitka](https://nuitka.net/) - können Sie Python-Apps zu Standard-Executables kompilieren
@@ -130,6 +131,7 @@
 
 ## Python & Docker
 - [3.11 in Docker](https://realpython.com/preview/python311-error-messages/) - link zu docker and pyhton
+- [Compose](https://saasitive.com/tutorial/django-celery-redis-postgres-docker-compose/) - Docker compose with Django 4, Celery, Redis and Postgres
 
 ## Web & al
 - [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/)
@@ -172,6 +174,7 @@
 - [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool
 - [SPyQL](https://danielcmoura.com/blog/2022/spyql-cell-towers/) - Command-line data analytics made easy
 - [jq](https://stedolan.github.io/jq/) - q is a lightweight and flexible command-line JSON processor.
+- [json-path](https://itsmycode.com/python-jsonpath/) - JSONPath is an expression language that is used to parse the JSON data in Python
 
 
 ## Div
