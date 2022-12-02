@@ -1,11 +1,11 @@
 # Python links
+[Frameworks](#s1)
+
+## base-camp
 
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
-
 - [PEP 8 — the Style Guide for Python Code](https://pep8.org/) - Basis für Entwicklungsrichtlinien 
-
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-
 - [Python4Everybody](https://www.py4e.com/)
 - [packing python](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 
@@ -180,8 +180,9 @@
 - [morsels tips](https://www.pythonmorsels.com/resources/)
 - [pysemtec](https://github.com/pysemtec/semantic-python-overview) - Semantic Python Overview
 - [auto](https://python.plainenglish.io/10-python-mini-automation-projects-177cbd01f0a4) - automation projects excel-file gen
+- [pybyte](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) - Python bytecode explained
 
-## Frameworks
+## <a id='s1' />Frameworks
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
 - [FW-best](https://steelkiwi.com/blog/best-python-web-frameworks-to-learn/)
 - [Flask 2.2](https://flask.palletsprojects.com/en/2.2.x/)
@@ -232,7 +233,6 @@
 - [dfm](https://dfm.io/posts/simple-python-module/) - What if I want to reuse my Python functions?
 - [API](https://github.com/FORCAM-FORCE-Bridge-API/samples-python) - forcam api samples python
 
-
 ## you-tube
 - [1](https://youtu.be/u8g9scXeAcI) - loops iterator pycon17
 
@@ -249,6 +249,7 @@
 
 ## FRONTEND
 - [solid](https://www.solidjs.com/)
+- 
 ## prjmgmt
 - [onepoint](https://www.onepoint-projects.com/de)
 - [openprojects](https://www.openproject.org/)
