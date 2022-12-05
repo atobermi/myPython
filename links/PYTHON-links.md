@@ -176,6 +176,8 @@
 - [jq](https://stedolan.github.io/jq/) - q is a lightweight and flexible command-line JSON processor.
 - [json-path](https://itsmycode.com/python-jsonpath/) - JSONPath is an expression language that is used to parse the JSON data in Python
 
+## ms
+- [ms-graph](https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-python-sdk-now-available-for-public-preview/)
 
 ## Div
 - [key-val-db](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
