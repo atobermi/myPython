@@ -1,10 +1,12 @@
 ## Angular blog 
 - [v15](https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8)
 
-## tools
-- [dynamic forms](https://colinrickels865.medium.com/angular-dynamic-form-generator-81f63c7fb47a)
-- [FormGen](https://mackentoch.github.io/easyFormGenerator/)
+## form-toos
+- [dynamic forms](https://colinrickels865.medium.com/angular-dynamic-form-generator-81f63c7fb47a) - Angular dynamic form generator
+- [FormGen](https://mackentoch.github.io/easyFormGenerator/) - Angular Easy form Generator
 - [json dyn form](https://eliteionic.com/tutorials/creating-dynamic-angular-forms-with-json/)
+- [dyn form](https://danielk.tech/home/how-to-build-a-dynamic-angular-form) - How to build a dynamic Angular form?
+- [ngx-schema-form](https://devlibrary.withgoogle.com/products/angular/repos/guillotinaweb-ngx-schema-form) - Form generation library based on the JSON Schema standard
 
 ## java
 - [dev moz](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
@@ -25,12 +27,13 @@
 
 ## examples
 
-- [Standalon](https://github.com/manfredsteyer/standalone-example-cli) - Standalone APIs for HttpClient code ( quick setup )
+
 - [ang15](https://www.angulararchitects.io/aktuelles/the-refurbished-httpclient-in-angular-15-standalone-apis-and-functional-interceptors) - standalone api
 
-## forms
+## http - rest
+- [http service](https://medium.com/@walid.bouguima/angular-generic-http-service-handle-your-backend-communication-like-a-pro-38422ca3ee2a) - Angular Clean Http Service Methods: Handle Your Backend Communication With Ease
+- [Standalon](https://github.com/manfredsteyer/standalone-example-cli) - Standalone APIs for HttpClient code ( quick setup )
 
-- [ngx-schema-form](https://devlibrary.withgoogle.com/products/angular/repos/guillotinaweb-ngx-schema-form) - Form generation library based on the JSON Schema standard
 
 ## picture
 - [imgix](https://imgix.com/) -  Visual Media,One Powerful Platform
