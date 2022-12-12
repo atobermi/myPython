@@ -13,6 +13,7 @@
 
 ## div
 - [Events](https://egghead.io/lessons/angular-consuming-events-as-observables-in-angular-2) - Consuming events as Observables in Angular 2
+- [clean arch](https://medium.com/taager-tech-blog/clean-architecture-for-angular-applications-b7ab140f0d5a)
 
 ## angular tutorial
 - [tut-de](https://angular.de/artikel/angular-tutorial-deutsch/)
@@ -26,7 +27,6 @@
 - [acc](https://www.tektutorialshub.com/angular/angular-component-communication-sharing-data/) - Angular Component Communication
 
 ## examples
-
 
 - [ang15](https://www.angulararchitects.io/aktuelles/the-refurbished-httpclient-in-angular-15-standalone-apis-and-functional-interceptors) - standalone api
 
