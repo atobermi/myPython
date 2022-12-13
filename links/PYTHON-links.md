@@ -50,7 +50,7 @@
 
 ## IDE
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
-- [TabNine](https://www.tabnine.com/install)
+- [TabNine](https://www.tabnine.com/install) 
 - [WING Python IDE](https://wingware.com/) 
 
 - [Kite](https://www.kite.com/python/docs/builtins.str.split) - Python Programming Pilot
@@ -109,6 +109,7 @@
 - TensorFlow, PyTorch, JAX, MXNet
 - [rstudio-flask](https://www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/) - jumping river
 - [deep learning](http://preview.d2l.ai/d2l-en/master/index.html) - interactive book with code, math, and discussions PyTorch, NumPy/MXNet, and TensorFlow
+-  [cw-ml links](https://www.computerwoche.de/a/was-ist-deep-learning,3549921)
 
 ## ext lib
 - [datatables](https://datatables.net/manual/api) - DataTables and Editor configured browser, embedded app.
