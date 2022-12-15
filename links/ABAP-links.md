@@ -1,5 +1,18 @@
 # ABAP links
 
+## RAP
+- [SAP RAP WS](https://github.com/SAP-samples/abap-platform-rap-workshops) - Workshops about the ABAP RESTful Application Programming Model (RAP)
+
+
+
+## SAP DOKU
+- [ABAP REST APM](https://help.sap.com/docs/BTP/923180ddb98240829d935862025004d6/289477a81eec4d4e84c0302fb6835035.html) - ABAP RESTful Application Programming Model
+- [CDS Annotations](https://help.sap.com/docs/BTP/923180ddb98240829d935862025004d6/130e02a697e14bf8b05dd6672c56250b.html?locale=en-US)
+- [VDM VDS](https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/0a875bc7a005465aad92c08becc11776.html) - VDM Layers and View Types
+
+##
+- [LangRef](https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/index.htm?file=abenabap_reference.htm) - ABAP CLOUD - Programming Language
+
 ## div Links
 
 - <a href="https://www.zapyard.com/">ZAP YARD </a>
