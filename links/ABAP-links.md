@@ -2,6 +2,8 @@
 
 ## RAP
 - [SAP RAP WS](https://github.com/SAP-samples/abap-platform-rap-workshops) - Workshops about the ABAP RESTful Application Programming Model (RAP)
+- [Blog](https://blogs.sap.com/2019/05/23/sap-cloud-platform-abap-restful-programming-model-rap-for-beginners/) - ABAP on SAP Cloud platform – ABAP RESTful Programming Model (RAP) for beginners with CRUD example
+- 
 
 
 
