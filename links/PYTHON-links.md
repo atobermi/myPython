@@ -187,6 +187,7 @@
 - [pysemtec](https://github.com/pysemtec/semantic-python-overview) - Semantic Python Overview
 - [auto](https://python.plainenglish.io/10-python-mini-automation-projects-177cbd01f0a4) - automation projects excel-file gen
 - [pybyte](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) - Python bytecode explained
+- [fstr](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) - Python f-strings Are More Powerful Than You Might Think
 
 ## <a id='s1' />Frameworks
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
@@ -201,6 +202,7 @@
 - [cone.app](https://coneapp.readthedocs.io/en/latest/index.html) -  offers a Web Application Stub built on top of the Pyramid framework.
 - [ionic](https://ionicframework.com/docs/components)
 - [snowflake](https://quickstarts.snowflake.com/guide/build_a_custom_api_in_python_on_aws/index.html) - api beispiel
+- [taipy](https://www.taipy.io/) - The next-gen open-source Python application builder.
 
 ## Django
 - [start prj](https://www.valentinog.com/blog/django-start/) django quickstart
