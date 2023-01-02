@@ -1,6 +1,9 @@
 # Python links
 [Frameworks](#s1)
 
+## tools
+- [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
+
 ## base-camp
 
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
