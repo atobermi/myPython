@@ -99,6 +99,7 @@
 - [Working with Files I/O](https://abiakshar.medium.com/working-with-python-files-i-o-e734de03b967)
 - [rx-36](https://rx-36.life/post/make-a-sidebar-menu-with-css-grid-layout/)
 - [medium](https://medium.com/)
+- [bit-manipulation](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
