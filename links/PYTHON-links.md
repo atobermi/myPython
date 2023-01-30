@@ -1,5 +1,6 @@
 # Python links
-[Frameworks](#s1)
+- [Frameworks](#s1)
+- [RUST](#r1)
 
 ## tools
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
@@ -265,3 +266,7 @@
 ## prjmgmt
 - [onepoint](https://www.onepoint-projects.com/de)
 - [openprojects](https://www.openproject.org/)
+
+## <a id='r1' />RUST
+- [the book](https://doc.rust-lang.org/book/)
+
