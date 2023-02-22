@@ -5,6 +5,9 @@
 ## tools
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
 
+## GUI
+- [Textualize](https://www.textualize.io/) - Build amazing TUIs (Text User Interfaces) with this innovative Python framework
+
 ## base-camp
 
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
@@ -86,6 +89,7 @@
 - [data](https://courses.spatialthoughts.com/python-dataviz.html) - Mapping and Data Visualization with Python (Full Course Material)
 - [example-plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_411) - plots economics übersicht
 - [Panel](https://panel.holoviz.org/index.html) - A high-level app and dashboarding solution for Python 
+- [plotnine](https://plotnine.readthedocs.io/en/stable/) - A Grammar of Graphics for Python
 
 ## odata
 - [odata.org](https://www.odata.org/libraries/)
