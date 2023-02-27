@@ -19,3 +19,7 @@
 
 ## API dev
 - [TMDB](https://www.themoviedb.org/documentation/api) - Millions of movies, TV shows and people to discover. Explore now.
+
+## Tools
+- [New GraphQL](https://blog.postman.com/announcing-postmans-new-graphql-client/)
+- [swagger](https://swagger.io/tools/swaggerhub-explore/)
