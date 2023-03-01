@@ -10,6 +10,10 @@
 - [neuron](http://neuralnetworksanddeeplearning.com/) - Neural Networks and Deep Learning - free book
 - [neuronale netze dkriesel.com](https://www.dkriesel.com/_media/science/neuronalenetze-de-zeta2-1col-dkrieselcom.pdf)
 
+## Libs
+
+- [polars](https://github.com/ddotta/awesome-polars) - Polars is a lightning-fast DataFrame library for Rust, Python, Node.js and R.
+
 ## DataBases for BigData&Analytics 
 
 - [Die 13 besten Analytics-Datenbanken](https://www.computerwoche.de/a/die-13-besten-analytics-datenbanken,3552382) (aus CW)
