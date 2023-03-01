@@ -1,5 +1,8 @@
 # BigData
 
+## Blogs
+- [r y x, r](https://ryxcommar.com/) - the only blog on the internet robust to heteroskedastic errors
+
 ## ML
 
 - [Die besten Tools für TensorFlow](https://www.computerwoche.de/a/die-besten-tools-fuer-tensorflow,3547391) (aus CW)
