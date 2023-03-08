@@ -23,6 +23,7 @@
 ## DB
 - [duckdb](https://duckdb.org/why_duckdb)
 - [sqlean](https://github.com/nalgeon/sqlean) - All the Missing SQLite Functions
+- [sqlime](https://github.com/nalgeon/sqlime) - Sqlime is an online SQLite playground for debugging and sharing SQL snippets
 
 ## Fun
 - [Writing a simple 16 bit VM in less than 125 lines of C](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
