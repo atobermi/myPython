@@ -133,6 +133,7 @@
 
 ## Compiler
 -[Mit Nuitka](https://nuitka.net/) - können Sie Python-Apps zu Standard-Executables kompilieren
+-[https://github.com/exaloop/codon](Codon is a high-performance Python compiler)
 
 ## IOT
 - [MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python) - How to use MQTT in Python (Paho)
