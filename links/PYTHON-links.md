@@ -201,6 +201,7 @@
 - [fstr](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) - Python f-strings Are More Powerful Than You Might Think
 
 ## <a id='s1' />Frameworks
+- [Pynecone](https://pynecone.io/docs/getting-started/introduction) - Pynecone is a full-stack framework for building and deploying web apps.
 - [top 10](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
 - [FW-best](https://steelkiwi.com/blog/best-python-web-frameworks-to-learn/)
 - [Flask 2.2](https://flask.palletsprojects.com/en/2.2.x/)
