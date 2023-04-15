@@ -42,3 +42,21 @@
 ## Messmittel
 
 - [Steinwald](https://info.steinwald.com/STEINWALD_Uebersicht_2021_14.pdf)
+
+## Influx - Grafana
+
+- https://www.influxdata.com/blog/getting-started-influxdb-grafana/
+- https://www.influxdata.com/blog/import-csv-data-influxdb-using-influx-cli-python-java-client-libraries/
+- https://www.influxdata.com/blog/apache-arrow-basics-coding-apache-arrow-python/
+- https://www.influxdata.com/blog/how-to-setup-influxdb-telegraf-and-grafana-on-docker-part-2/
+- https://stackoverflow.com/questions/41003213/telegraf-how-to-add-a-input-plugin
+- https://www.influxdata.com/blog/opc-ua-client-listener-plugin/
+
+### data collection
+- https://www.influxdata.com/blog/when-use-flux-vs-python/
+- https://www.influxdata.com/blog/fluentd-data-collection/
+-
+-
+
+
+
