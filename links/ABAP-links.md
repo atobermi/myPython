@@ -2,6 +2,7 @@
 
 ## Tricks
 - [inui](https://inui.io/sap-tips-tricks/) - 24 SAP Tips and Tricks You Wish You Knew at the Beginning
+- [DSAG Eclipcse Richtlinie](https://1dsag.github.io/ADT-Leitfaden/) 
 
 ## RAP
 - [SAP RAP WS](https://github.com/SAP-samples/abap-platform-rap-workshops) - Workshops about the ABAP RESTful Application Programming Model (RAP)
