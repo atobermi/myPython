@@ -43,6 +43,10 @@
 
 - [Steinwald](https://info.steinwald.com/STEINWALD_Uebersicht_2021_14.pdf)
 
+## Datalake
+
+-[s3](https://vegibit.com/amazon-s3-tutorial/)
+
 ## Influx - Grafana
 
 - https://www.influxdata.com/blog/getting-started-influxdb-grafana/
