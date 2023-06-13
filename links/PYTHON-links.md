@@ -124,6 +124,8 @@
 ## ext lib
 - [datatables](https://datatables.net/manual/api) - DataTables and Editor configured browser, embedded app.
 
+## learnings
+- [FaceRecognition](https://realpython.com/face-recognition-with-python/)
 
 ## Tutorials
 - [Queue](https://pymotw.com/2/Queue/) - Queue – A thread-safe FIFO implementation
