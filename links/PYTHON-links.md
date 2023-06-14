@@ -207,6 +207,7 @@
 - [auto](https://python.plainenglish.io/10-python-mini-automation-projects-177cbd01f0a4) - automation projects excel-file gen
 - [pybyte](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) - Python bytecode explained
 - [fstr](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) - Python f-strings Are More Powerful Than You Might Think
+- [LLM-PoweredAppl](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
 
 ## <a id='s1' />Frameworks
 - [Pynecone](https://pynecone.io/docs/getting-started/introduction) - Pynecone is a full-stack framework for building and deploying web apps.
