@@ -1,4 +1,5 @@
 # Python links
+- [ZEN](https://realpython.com/zen-of-python/)
 - [Frameworks](#s1)
 - [RUST](#r1)
 
