@@ -108,6 +108,7 @@
 - [rx-36](https://rx-36.life/post/make-a-sidebar-menu-with-css-grid-layout/)
 - [medium](https://medium.com/)
 - [bit-manipulation](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
+- [Heinz Bratislawa](https://martinheinz.dev/)
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
