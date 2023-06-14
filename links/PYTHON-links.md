@@ -111,6 +111,8 @@
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
 
+## Tricks
+- [UsingSlots PyWiki](https://wiki.python.org/moin/UsingSlots) - __slots__ statt dyn __dict__ for classes
 
 ## ML
 - [NumPy](https://numpy.org/neps/nep-0047-array-api-standard.html) - NEP 47 — Adopting the array API standard, info zu data-science libraries
