@@ -67,6 +67,7 @@
 - [Kite](https://www.kite.com/python/docs/builtins.str.split) - Python Programming Pilot
 
 ## Libs
+- [Missing Batteries](https://martinheinz.dev/blog/96) - Python's Missing Batteries: Essential Libraries You're Missing Out On
 - [FreezeGun: Let your Python tests travel through time](https://github.com/spulec/freezegun)
 - [Agnostic Github client API ](https://github.com/mozilla/agithub) - An EDSL for connecting to REST servers
 - [Faker](https://pypi.org/project/Faker/) - is a Python package that generates fake data for you
