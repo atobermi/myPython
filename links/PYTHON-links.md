@@ -82,6 +82,7 @@
 - [icecream ic](https://medium.com/towards-data-science/introducing-icecream-never-use-print-to-debug-your-python-code-again-d8f2e5719f8a) - logging
 - [lxml](https://lxml.de/) - lxml - XML and HTML with Python basierend C libraries libxml2 and libxslt.
 - [odata sap](https://github.com/SAP/python-pyodata/blob/master/docs/usage/README.md)
+- [ConfiFiles](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) - Hydra auch pyyaml, configparser, ConfigObj
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
