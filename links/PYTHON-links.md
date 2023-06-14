@@ -2,6 +2,7 @@
 - [ZEN](https://realpython.com/zen-of-python/)
 - [Frameworks](#s1)
 - [RUST](#r1)
+- [BPython Interpreter](https://bpython-interpreter.org/)
 
 ## tools
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
