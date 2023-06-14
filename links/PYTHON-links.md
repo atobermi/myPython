@@ -6,6 +6,7 @@
 
 ## tools
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
+- [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
 
 ## GUI
 - [Textualize](https://www.textualize.io/) - Build amazing TUIs (Text User Interfaces) with this innovative Python framework
