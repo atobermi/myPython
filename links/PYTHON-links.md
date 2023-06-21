@@ -112,6 +112,7 @@
 - [medium](https://medium.com/)
 - [bit-manipulation](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 - [Heinz Bratislawa](https://martinheinz.dev/)
+- [Leifer](https://charlesleifer.com/blog/asyncio/)
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
