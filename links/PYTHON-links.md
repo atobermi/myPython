@@ -59,6 +59,7 @@
 - [Dive Into Python 3](https://diveintopython3.net/)
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [ArchitekturPattern mit P](https://www.giulianopertile.com/blog/book-review-architecture-patterns-with-python/)
+- [FlaskTutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - The Flask Mega-Tutorial
 
 ## IDE
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
