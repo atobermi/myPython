@@ -87,6 +87,7 @@
 - [lxml](https://lxml.de/) - lxml - XML and HTML with Python basierend C libraries libxml2 and libxslt.
 - [odata sap](https://github.com/SAP/python-pyodata/blob/master/docs/usage/README.md)
 - [ConfiFiles](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) - Hydra auch pyyaml, configparser, ConfigObj
+- [pathy](https://pypi.org/project/pathy/) - Pathy: a Path interface for local and cloud bucket storage
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
