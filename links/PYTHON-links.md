@@ -60,6 +60,7 @@
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [ArchitekturPattern mit P](https://www.giulianopertile.com/blog/book-review-architecture-patterns-with-python/)
 - [FlaskTutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - The Flask Mega-Tutorial
+- [polars cookbook](https://github.com/escobar-west/polars-cookbook) - alternative zu [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
 
 ## IDE
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
