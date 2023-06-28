@@ -61,6 +61,7 @@
 - [ArchitekturPattern mit P](https://www.giulianopertile.com/blog/book-review-architecture-patterns-with-python/)
 - [FlaskTutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - The Flask Mega-Tutorial
 - [polars cookbook](https://github.com/escobar-west/polars-cookbook) - alternative zu [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
+- [Polars Doku](https://pola-rs.github.io/polars/py-polars/html/reference/io.html)
 
 ## IDE
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
