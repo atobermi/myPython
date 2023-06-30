@@ -47,6 +47,7 @@
 - [Horst Keller](https://blogs.sap.com/2016/11/04/abap-news-for-release-7.51/) - ABAP Language News for Release 7.51
 - [CADAXO](https://www.cadaxo.com/blog/)
 - [CDS](https://blogs.sap.com/2022/05/06/cds-view-entities-are-feature-complete-part-l-new-features/)
+- [ABAP Expressions](https://blogs.sap.com/2021/10/19/new-kinds-of-abap-expressions/)
 
 ## Module
 
