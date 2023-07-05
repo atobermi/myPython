@@ -118,6 +118,7 @@
 - [bit-manipulation](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 - [Heinz Bratislawa](https://martinheinz.dev/)
 - [Leifer](https://charlesleifer.com/blog/asyncio/)
+- [BiteCode](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy) - What's the deal with CPython, Pypy, MicroPython, Jython...?
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
@@ -150,6 +151,7 @@
 ## Compiler
 -[Mit Nuitka](https://nuitka.net/) - können Sie Python-Apps zu Standard-Executables kompilieren
 -[https://github.com/exaloop/codon](Codon is a high-performance Python compiler)
+
 
 ## IOT
 - [MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python) - How to use MQTT in Python (Paho)
