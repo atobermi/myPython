@@ -99,6 +99,7 @@
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
 - [fusion-charts](https://www.fusioncharts.com/) - django backend - how to do dashboards
 - [arrow](https://arrow.apache.org/docs/) - Apache Arrow is a development platform for in-memory analytics.
+- [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas/tree/main)
 - [pyarrow](https://arrow.apache.org/cookbook/py/io.html) - Arrow Python Cookbook (parque...)
 - [data](https://courses.spatialthoughts.com/python-dataviz.html) - Mapping and Data Visualization with Python (Full Course Material)
 - [example-plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_411) - plots economics übersicht
