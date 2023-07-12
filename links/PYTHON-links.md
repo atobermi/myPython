@@ -92,8 +92,6 @@
 - [pathy](https://pypi.org/project/pathy/) - Pathy: a Path interface for local and cloud bucket storage
 - [structlog](https://www.structlog.org/en/stable/) - structlog is the production-ready logging solution for Python
 
-
-
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
@@ -105,6 +103,9 @@
 - [example-plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_411) - plots economics übersicht
 - [Panel](https://panel.holoviz.org/index.html) - A high-level app and dashboarding solution for Python 
 - [plotnine](https://plotnine.readthedocs.io/en/stable/) - A Grammar of Graphics for Python
+
+## Analytics
+- [Pandas](https://pandas.pydata.org/) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation too
 
 ## odata
 - [odata.org](https://www.odata.org/libraries/)
