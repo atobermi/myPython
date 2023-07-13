@@ -176,6 +176,7 @@
 
 - [api](https://superfastpython.com/python-concurrency-choose-api/) - How to Choose the Right Python Concurrency API
 - [HN](https://github.com/HackerNews/API) - hacker-news test api
+- [taiPY](https://www.taipy.io/) - Your Web Application Builder
 
 ## ReportLab
 - [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
