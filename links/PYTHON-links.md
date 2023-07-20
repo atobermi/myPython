@@ -124,6 +124,7 @@
 - [Heinz Bratislawa](https://martinheinz.dev/)
 - [Leifer](https://charlesleifer.com/blog/asyncio/)
 - [BiteCode](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy) - What's the deal with CPython, Pypy, MicroPython, Jython...?
+- [SuperFastPython](https://superfastpython.com/numpy-share-array-processes/) - 7 Ways to Share a Numpy Array Between Processes
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
