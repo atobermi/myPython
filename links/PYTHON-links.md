@@ -168,6 +168,7 @@
 ## Python & Docker
 - [3.11 in Docker](https://realpython.com/preview/python311-error-messages/) - link zu docker and pyhton
 - [Compose](https://saasitive.com/tutorial/django-celery-redis-postgres-docker-compose/) - Docker compose with Django 4, Celery, Redis and Postgres
+- [vsc-docker-python](https://github.com/RamiKrispin/vscode-python)
 
 ## Web & al
 - [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/)
