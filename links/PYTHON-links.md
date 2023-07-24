@@ -1,3 +1,6 @@
+# ZIG
+- [ZIG](https://ziglang.org/) - Zig is a general-purpose programming language ( C replacement ? )
+
 # Python links
 - [ZEN](https://realpython.com/zen-of-python/)
 - [Frameworks](#s1)
