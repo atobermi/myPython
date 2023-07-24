@@ -72,6 +72,7 @@
 - [WING Python IDE](https://wingware.com/) 
 
 - [Kite](https://www.kite.com/python/docs/builtins.str.split) - Python Programming Pilot
+- [PDE Docker](https://github.com/RamiKrispin/vscode-python/tree/main#setting-the-python-environment) - Setting Python Development Environment with VScode and Docker
 
 ## Libs
 - [Missing Batteries](https://martinheinz.dev/blog/96) - Python's Missing Batteries: Essential Libraries You're Missing Out On
