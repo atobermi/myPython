@@ -299,6 +299,7 @@
 ## DB
 - [bit.io](https://bit.io/)
 - [Akumuli](https://akumuli.org/) - OPEN SOURCE TIME SERIES DATABASE
+- [DuckDB](https://duckdb.org/) - is an in-process SQL OLAP database management system
 
 ## FRONTEND
 - [solid](https://www.solidjs.com/)
