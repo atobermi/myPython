@@ -298,6 +298,7 @@
 
 ## DB
 - [bit.io](https://bit.io/)
+- [Akumuli](https://akumuli.org/) - OPEN SOURCE TIME SERIES DATABASE
 
 ## FRONTEND
 - [solid](https://www.solidjs.com/)
