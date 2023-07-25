@@ -76,6 +76,7 @@
 
 ## Libs
 - [Missing Batteries](https://martinheinz.dev/blog/96) - Python's Missing Batteries: Essential Libraries You're Missing Out On
+- [Trio](https://trio.readthedocs.io/en/stable/awesome-trio-libraries.html) - Awesome Trio compatible Libraries
 - [FreezeGun: Let your Python tests travel through time](https://github.com/spulec/freezegun)
 - [Agnostic Github client API ](https://github.com/mozilla/agithub) - An EDSL for connecting to REST servers
 - [Faker](https://pypi.org/project/Faker/) - is a Python package that generates fake data for you
