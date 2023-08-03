@@ -108,6 +108,7 @@
 - [example-plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_411) - plots economics übersicht
 - [Panel](https://panel.holoviz.org/index.html) - A high-level app and dashboarding solution for Python 
 - [plotnine](https://plotnine.readthedocs.io/en/stable/) - A Grammar of Graphics for Python
+- [SHINY 4 Python](https://talkpython.fm/episodes/show/424/shiny-for-python)
 
 ## Analytics
 - [Pandas](https://pandas.pydata.org/) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation too
