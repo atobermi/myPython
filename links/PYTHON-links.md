@@ -110,6 +110,7 @@
 - [Panel](https://panel.holoviz.org/index.html) - A high-level app and dashboarding solution for Python 
 - [plotnine](https://plotnine.readthedocs.io/en/stable/) - A Grammar of Graphics for Python
 - [SHINY 4 Python](https://talkpython.fm/episodes/show/424/shiny-for-python)
+- [REFLEX](https://github.com/reflex-dev/reflex) - Performant, customizable web apps in pure Python. Deploy in seconds. 
 
 ## Analytics
 - [Pandas](https://pandas.pydata.org/) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation too
