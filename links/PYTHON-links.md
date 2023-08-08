@@ -119,6 +119,10 @@
 - [odata.org](https://www.odata.org/libraries/)
 - [pyodata](https://pyodata.readthedocs.io/en/latest/usage/initialization.html#get-the-service-proxy-client-for-an-odata-service-requiring-sap-client-parameter) - Python agnostic implementation of OData client library.
 
+## S3
+- [AWS BOTO3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html#client)
+- [Read CSV](https://dev.to/shihanng/how-to-read-csv-file-from-amazon-s3-in-python-4ee9)
+
 ## Conf
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
 
