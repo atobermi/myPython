@@ -309,6 +309,7 @@
 - [bit.io](https://bit.io/)
 - [Akumuli](https://akumuli.org/) - OPEN SOURCE TIME SERIES DATABASE
 - [DuckDB](https://duckdb.org/) - is an in-process SQL OLAP database management system
+- [BadgerDB](https://dgraph.io/docs/badger/projects-using-badger/) - BadgerDB is an embeddable, persistent, and fast key-value (KV) database written in pure Go.
 
 ## FRONTEND
 - [solid](https://www.solidjs.com/)
