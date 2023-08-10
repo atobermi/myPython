@@ -46,6 +46,7 @@
 - [string-methods](https://www.pythonmorsels.com/string-methods/)
 - [codesolid](https://codesolid.com/matplotlib-coordinates-toward-a-python-graphing-calculator/) - Matplotlib Coordinates: Graphing Math Functions in Python
 - [RealPython](https://realpython.com/podcasts/rpp/146/) - Episode 146: Using NumPy and Linear Algebra for Faster Python Code
+- [dwnld](https://realpython.com/python-download-file-from-url/) - How to Download Files From URLs With Python
 
 ## DataBase et cie
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
