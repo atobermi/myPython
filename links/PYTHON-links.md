@@ -98,7 +98,9 @@
 - [ConfiFiles](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) - Hydra auch pyyaml, configparser, ConfigObj
 - [pathy](https://pypi.org/project/pathy/) - Pathy: a Path interface for local and cloud bucket storage
 - [structlog](https://www.structlog.org/en/stable/) - structlog is the production-ready logging solution for Python
+- [ibis](https://github.com/ibis-project/ibis) - Ibis is a Python library that provides a lightweight, universal interface for data wrangling.
 
+  
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
