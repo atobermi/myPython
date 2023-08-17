@@ -155,7 +155,8 @@
 - TensorFlow, PyTorch, JAX, MXNet
 - [rstudio-flask](https://www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/) - jumping river
 - [deep learning](http://preview.d2l.ai/d2l-en/master/index.html) - interactive book with code, math, and discussions PyTorch, NumPy/MXNet, and TensorFlow
--  [cw-ml links](https://www.computerwoche.de/a/was-ist-deep-learning,3549921)
+- [cw-ml links](https://www.computerwoche.de/a/was-ist-deep-learning,3549921)
+- [functime](https://github.com/descendant-ai/functime) - Time-series machine learning and embeddings at scale
 
 ## ext lib
 - [datatables](https://datatables.net/manual/api) - DataTables and Editor configured browser, embedded app.
