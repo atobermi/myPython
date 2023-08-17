@@ -99,6 +99,7 @@
 - [pathy](https://pypi.org/project/pathy/) - Pathy: a Path interface for local and cloud bucket storage
 - [structlog](https://www.structlog.org/en/stable/) - structlog is the production-ready logging solution for Python
 - [ibis](https://github.com/ibis-project/ibis) - Ibis is a Python library that provides a lightweight, universal interface for data wrangling.
+- [polars](https://www.pola.rs/) - Lightning-fast DataFrame library for Rust and Python
 
   
 ## Visuals
