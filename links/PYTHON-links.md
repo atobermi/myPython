@@ -39,6 +39,7 @@
 </p>
 
 ## Tutorials et cie
+- [dagster](https://dagster.io/blog/python-project-best-practices) - Best Practices in Structuring Python Projects
 - [Schoenfeld](https://bodo-schoenfeld.de/python/)
 - [Python Tutorial](https://www.pythontutorial.net/) - tkinter ok
 - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
