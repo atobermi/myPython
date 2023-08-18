@@ -159,6 +159,7 @@
 - [cw-ml links](https://www.computerwoche.de/a/was-ist-deep-learning,3549921)
 - [functime](https://github.com/descendant-ai/functime) - Time-series machine learning and embeddings at scale
 - [ffp3](https://otexts.com/fpp3/) - Forecasting: Principles and Practice (3rd ed)
+- [RAY](https://docs.ray.io/en/latest/ray-core/walkthrough.html) - is an open-source unified compute framework that makes it easy to scale AI and Python workload
 
 ## ext lib
 - [datatables](https://datatables.net/manual/api) - DataTables and Editor configured browser, embedded app.
