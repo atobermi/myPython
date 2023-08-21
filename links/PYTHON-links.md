@@ -101,6 +101,7 @@
 - [structlog](https://www.structlog.org/en/stable/) - structlog is the production-ready logging solution for Python
 - [ibis](https://github.com/ibis-project/ibis) - Ibis is a Python library that provides a lightweight, universal interface for data wrangling.
 - [polars](https://www.pola.rs/) - Lightning-fast DataFrame library for Rust and Python
+- [30PyLibs](https://medium.com/@Evenword/the-30-most-useful-python-libraries-for-data-engineering-9e724a19e613) - The 30 Most Useful Python Libraries for Data Engineering
 
   
 ## Visuals
