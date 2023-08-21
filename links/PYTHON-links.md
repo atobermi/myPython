@@ -102,6 +102,7 @@
 - [ibis](https://github.com/ibis-project/ibis) - Ibis is a Python library that provides a lightweight, universal interface for data wrangling.
 - [polars](https://www.pola.rs/) - Lightning-fast DataFrame library for Rust and Python
 - [30PyLibs](https://medium.com/@Evenword/the-30-most-useful-python-libraries-for-data-engineering-9e724a19e613) - The 30 Most Useful Python Libraries for Data Engineering
+- [libs](https://medium.com/the-modern-scientist/10-python-libraries-you-dont-know-which-you-should-3d36970a77d1) - 10 Python Libraries You Don’t Know, Which You Should…
 
   
 ## Visuals
