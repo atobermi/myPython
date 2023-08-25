@@ -22,7 +22,7 @@
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Python4Everybody](https://www.py4e.com/)
 - [packing python](https://packaging.python.org/en/latest/tutorials/installing-packages/)
-
+- [sql](https://joaodlf.com/python-just-write-sql) - Python: Just write SQL
 <h2>Basis Information</h2>
 <p>
 <a href="https://pep8.org/">PEP 8 — the Style Guide for Python Code</a> => Basis für Entwicklungsrichtlinien</br>
@@ -56,6 +56,7 @@
 - [SQLAlchemy Tut](https://www.datacamp.com/tutorial/sqlalchemy-tutorial-examples)
 - [crunchy](https://www.crunchydata.com/) - postgress cloud and kubernetes 4 postgress
 - [Peewee](https://github.com/coleifer/peewee) - Peewee is a simple and small ORM
+-  
 
 ## Books
 - [Python Referenz Darvid M. Beazley](https://www.reportlab.com/media/imadj/data/RLIMG_f32c7c0a6db7b442726ebb8b3d3e3d0e.PDF)
