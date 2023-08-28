@@ -106,7 +106,7 @@
 - [30PyLibs](https://medium.com/@Evenword/the-30-most-useful-python-libraries-for-data-engineering-9e724a19e613) - The 30 Most Useful Python Libraries for Data Engineering
 - [libs](https://medium.com/the-modern-scientist/10-python-libraries-you-dont-know-which-you-should-3d36970a77d1) - 10 Python Libraries You Don’t Know, Which You Should…
 - [openpyxl](https://python.plainenglish.io/openpyxl-tips-and-tricks-101dd03ba5fb) - Create excel sheets using openpyxl in python
-
+- [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) - SeamlessM4T is designed to provide high quality translation
   
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
