@@ -167,6 +167,7 @@
 - [ffp3](https://otexts.com/fpp3/) - Forecasting: Principles and Practice (3rd ed)
 - [RAY](https://docs.ray.io/en/latest/ray-core/walkthrough.html) - is an open-source unified compute framework that makes it easy to scale AI and Python workload
 - [LLM](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e) - Anti-hype LLM reading list
+- [AirFlow](https://heartbeat.comet.ml/supercharging-your-data-pipeline-with-apache-airflow-part-1-e749299e8a79) - Supercharging your Data Pipeline with Apache Airflow (Part 1)
 
 ## ext lib
 - [datatables](https://datatables.net/manual/api) - DataTables and Editor configured browser, embedded app.
