@@ -71,6 +71,9 @@
 - [Polars Doku](https://pola-rs.github.io/polars/py-polars/html/reference/io.html)
 - [Software Design by Example](https://third-bit.com/sdxpy/) - a tool-based introduction with Python
 
+## Standards
+- [w3 csv](https://www.w3.org/TR/tabular-data-primer/) - CSV on the Web: A Primer
+
 ## IDE
 - [QT](https://www.qt.io/product/qt6/qml-book/preface-preface)
 - [TabNine](https://www.tabnine.com/install) 
