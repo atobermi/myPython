@@ -151,6 +151,7 @@
 - [Leifer](https://charlesleifer.com/blog/asyncio/)
 - [BiteCode](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy) - What's the deal with CPython, Pypy, MicroPython, Jython...?
 - [SuperFastPython](https://superfastpython.com/numpy-share-array-processes/) - 7 Ways to Share a Numpy Array Between Processes
+- [pysc](https://mentorthetech.blogspot.com/2023/07/20-python-scripts-with-code-to-automate.html) - 20 Best Python Scripts to Automate Your Work
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
