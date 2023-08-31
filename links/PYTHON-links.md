@@ -83,6 +83,9 @@
 - [Kite](https://www.kite.com/python/docs/builtins.str.split) - Python Programming Pilot
 - [PDE Docker](https://github.com/RamiKrispin/vscode-python/tree/main#setting-the-python-environment) - Setting Python Development Environment with VScode and Docker
 
+## UI
+- [ReactPy](https://medium.com/@ash_computational_qm/reactpy-building-dynamic-frontend-applications-with-python-de92d9e95bce)
+
 ## Libs
 - [Missing Batteries](https://martinheinz.dev/blog/96) - Python's Missing Batteries: Essential Libraries You're Missing Out On
 - [Trio](https://trio.readthedocs.io/en/stable/awesome-trio-libraries.html) - Awesome Trio compatible Libraries
