@@ -85,6 +85,7 @@
 
 ## UI
 - [ReactPy](https://medium.com/@ash_computational_qm/reactpy-building-dynamic-frontend-applications-with-python-de92d9e95bce)
+- [dd](https://reactscript.com/best-data-table/) - best datatable react
 
 ## Libs
 - [Missing Batteries](https://martinheinz.dev/blog/96) - Python's Missing Batteries: Essential Libraries You're Missing Out On
