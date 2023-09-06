@@ -6,6 +6,7 @@
 - [Frameworks](#s1)
 - [RUST](#r1)
 - [BPython Interpreter](https://bpython-interpreter.org/)
+- [hidden features](https://stackabuse.com/hidden-features-of-python/)
 
 ## tools
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
