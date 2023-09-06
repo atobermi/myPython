@@ -52,6 +52,7 @@
 - [P4DS](https://aeturrell.github.io/python4DS/data-tidy.html) - Python for Data Science
 
 ## DataBase et cie
+- [Dod](https://dbdb.io/?)- Database of Databases
 - <a href="https://www.btelligent.com/blog/best-practice-fuer-sql-statements-in-python/">Best Practice für SQL-Statements in Python </a> by btelligent.com
 - [sostore](https://noisefloor-net.blogspot.com/2013/08/sostore-eine-simple-objekt-datenbank.html) simple objekt-db mit sqllite
 - [SQLAlchemy Tut](https://www.datacamp.com/tutorial/sqlalchemy-tutorial-examples)
