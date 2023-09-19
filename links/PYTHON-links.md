@@ -224,7 +224,7 @@
 - [taiPY](https://www.taipy.io/) - Your Web Application Builder
 - [HTMX](https://github.com/PyHAT-stack/awesome-python-htmx)
 
-## ReportLab
+## ReportLab 
 - [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 - [Gen by Newton](https://vonkunesnewton.medium.com/generating-pdfs-with-reportlab-ced3b04aedef) - Generating pdfs with ReportLab
 - [repLab KurzInfo](https://wiki.ubuntuusers.de/ReportLab/)
@@ -241,6 +241,7 @@
 - [fpdf2](https://pyfpdf.github.io/fpdf2/index.html) 
 - [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/) - wird nicht mehr gewartet --> fpdf2
 - [pdfrw](https://github.com/pmaupin/pdfrw#readme) - mit Beschreibung div pdf-libs
+- [pdf](https://realpython.com/creating-modifying-pdf/) - Create and Modify PDF Files in Python
 
 - [epc-qr](https://epc-qr.eu/?form)
 
