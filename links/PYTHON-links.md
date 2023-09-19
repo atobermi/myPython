@@ -12,6 +12,7 @@
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
 - [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
 - [GIT](https://www.justinjoyce.dev/git-tips-and-tricks/) - Git tips and tricks
+- [pdb](https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger) - Intro to PDB, the Python Debugger
 
 ## GUI
 - [Textualize](https://www.textualize.io/) - Build amazing TUIs (Text User Interfaces) with this innovative Python framework
