@@ -224,7 +224,8 @@
 - [HN](https://github.com/HackerNews/API) - hacker-news test api
 - [taiPY](https://www.taipy.io/) - Your Web Application Builder
 - [HTMX](https://github.com/PyHAT-stack/awesome-python-htmx)
-
+- [LiteStar](https://github.com/litestar-org/litestar/) - FASTAPI alternative
+ 
 ## ReportLab 
 - [RportLab docu](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 - [Gen by Newton](https://vonkunesnewton.medium.com/generating-pdfs-with-reportlab-ced3b04aedef) - Generating pdfs with ReportLab
