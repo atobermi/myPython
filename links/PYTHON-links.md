@@ -7,6 +7,7 @@
 - [RUST](#r1)
 - [BPython Interpreter](https://bpython-interpreter.org/)
 - [hidden features](https://stackabuse.com/hidden-features-of-python/)
+- [SingleLine](https://medium.com/@hafizabdullaha93/20-extremely-useful-single-line-python-codes-de44928a1a3b)- 20 extremely useful single-line Python codes
 
 ## tools
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
@@ -271,6 +272,7 @@
 - [pybyte](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) - Python bytecode explained
 - [fstr](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) - Python f-strings Are More Powerful Than You Might Think
 - [LLM-PoweredAppl](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
+- [PyObjC](https://yasoob.me/posts/how-to-use-vision-framework-via-pyobjc/) - How to Use Apple Vision Framework via PyObjC for Text Recognition
 
 ## <a id='s1' />Frameworks
 - [Pynecone](https://pynecone.io/docs/getting-started/introduction) - Pynecone is a full-stack framework for building and deploying web apps.
