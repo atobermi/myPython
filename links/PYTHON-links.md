@@ -278,6 +278,7 @@
 - [fstr](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) - Python f-strings Are More Powerful Than You Might Think
 - [LLM-PoweredAppl](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
 - [PyObjC](https://yasoob.me/posts/how-to-use-vision-framework-via-pyobjc/) - How to Use Apple Vision Framework via PyObjC for Text Recognition
+- [scrap](https://medium.com/bitgrit-data-science-publication/scraping-100-free-data-science-books-with-python-5b5c515033a7) - Scraping 100+ Free Data Science Books with Python
 
 ## <a id='s1' />Frameworks
 - [Pynecone](https://pynecone.io/docs/getting-started/introduction) - Pynecone is a full-stack framework for building and deploying web apps.
