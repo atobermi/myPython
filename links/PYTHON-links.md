@@ -123,6 +123,7 @@
 - [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) - SeamlessM4T is designed to provide high quality translation
 - [polars](https://hi-optimus.com/) - Optimus Data cleansing and exploration made simple.
 - [qr](https://realpython.com/python-generate-qr-code/) - Generate Beautiful QR Codes With Python
+
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
 - [Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
@@ -254,7 +255,8 @@
 - [div](https://eugeneyan.com/writing/uncommon-python/) - Uncommon Uses of Python in Commonly Used Libraries
 - [bb](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) - All the Ways To Introspect Python Objects at Runtime
 - [cc](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49) - 12 Beginner Concepts About Type Hints To Improve Your Python Code
--[exam](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb) - 190 Python Projects with Source Code
+- [exam](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb) - 190 Python Projects with Source Code
+- [Execp FileHdl](https://python.plainenglish.io/exception-and-file-handling-in-python-acf41e4aa530) - Exception and File Handling in Python
 
 ## tools
 - [rehal](https://www.reahl.org/dynamiccontent)
