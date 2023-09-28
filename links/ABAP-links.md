@@ -2,6 +2,7 @@
 
 ## Tricks
 - [CleanABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP_de.md) - SAP Clean ABAP
+- [PAL](https://github.com/SAP/code-pal-for-abap) - github abap pal
 - [inui](https://inui.io/sap-tips-tricks/) - 24 SAP Tips and Tricks You Wish You Knew at the Beginning
 - [DSAG Eclipcse Richtlinie](https://1dsag.github.io/ADT-Leitfaden/) 
 
