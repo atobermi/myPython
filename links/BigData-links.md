@@ -33,6 +33,7 @@
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/coordinate-systems-axes.html)
 - [dataelixir](https://dataelixir.com/newsletter-archives/)
 - (https://www.blog.dailydoseofds.com/p/free-daily-dose-of-data-science-pdf) - free-daily-dose-of-data-science-pdf
+- (nomidl)[https://www.nomidl.com/machine-learning/python-machine-learning-beginners-guide/]
 
 ## Kafka
 
