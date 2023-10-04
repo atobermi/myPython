@@ -143,6 +143,7 @@
 
 ## Analytics
 - [Pandas](https://pandas.pydata.org/) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation too
+- [LOST](https://lost-stats.github.io/) - Library of Statistical Techniques (LOST)!
 
 ## odata
 - [odata.org](https://www.odata.org/libraries/)
