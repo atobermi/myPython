@@ -53,6 +53,7 @@
 - [RealPython](https://realpython.com/podcasts/rpp/146/) - Episode 146: Using NumPy and Linear Algebra for Faster Python Code
 - [dwnld](https://realpython.com/python-download-file-from-url/) - How to Download Files From URLs With Python
 - [P4DS](https://aeturrell.github.io/python4DS/data-tidy.html) - Python for Data Science
+- [free books](https://aeturrell.com/teaching/)
 
 ## DataBase et cie
 - [Dod](https://dbdb.io/?)- Database of Databases
