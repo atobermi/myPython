@@ -90,6 +90,7 @@
 - [PDE Docker](https://github.com/RamiKrispin/vscode-python/tree/main#setting-the-python-environment) - Setting Python Development Environment with VScode and Docker
 
 ## UI
+- [PySimpleGUI](https://www.pysimplegui.org/en/latest/) - User Interfaces for HumansTM
 - [ReactPy](https://medium.com/@ash_computational_qm/reactpy-building-dynamic-frontend-applications-with-python-de92d9e95bce)
 - [dd](https://reactscript.com/best-data-table/) - best datatable react
 - [taipy](https://www.taipy.io/) - Your Web Application Builder. Pure Python
