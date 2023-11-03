@@ -126,6 +126,7 @@
 - [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) - SeamlessM4T is designed to provide high quality translation
 - [polars](https://hi-optimus.com/) - Optimus Data cleansing and exploration made simple.
 - [qr](https://realpython.com/python-generate-qr-code/) - Generate Beautiful QR Codes With Python
+- [pybind11](https://pybind11.readthedocs.io/en/latest/index.html) — Seamless operability between C++11 and Python
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
