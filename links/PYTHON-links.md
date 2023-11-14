@@ -127,6 +127,7 @@
 - [polars](https://hi-optimus.com/) - Optimus Data cleansing and exploration made simple.
 - [qr](https://realpython.com/python-generate-qr-code/) - Generate Beautiful QR Codes With Python
 - [pybind11](https://pybind11.readthedocs.io/en/latest/index.html) — Seamless operability between C++11 and Python
+- [trio](https://trio.readthedocs.io/en/stable/) - a friendly Python library for async concurrency and I/O¶
 
 ## Visuals
 - [Dash plotly](https://plotly.com/dash/open-source/) - open-source Python dev framework  real-time interactive AI apps with sophisticated visualizations
