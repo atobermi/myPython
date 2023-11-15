@@ -14,6 +14,7 @@
 - [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
 - [GIT](https://www.justinjoyce.dev/git-tips-and-tricks/) - Git tips and tricks
 - [pdb](https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger) - Intro to PDB, the Python Debugger
+- [Popkes](https://alpopkes.com/posts/python/packaging_tools/) - An unbiased evaluation of environment management and packaging tools
 
 ## GUI
 - [Textualize](https://www.textualize.io/) - Build amazing TUIs (Text User Interfaces) with this innovative Python framework
