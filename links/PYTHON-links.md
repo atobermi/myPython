@@ -144,6 +144,7 @@
 - [SHINY 4 Python](https://talkpython.fm/episodes/show/424/shiny-for-python)
 - [REFLEX](https://github.com/reflex-dev/reflex) - Performant, customizable web apps in pure Python. Deploy in seconds.
 - [Vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications
+- [dailydose](https://www.blog.dailydoseofds.com/p/8-classic-alternatives-to-traditional) - 8 Classic Alternatives to Traditional Plots That Every Data Scientist Must Add in Their Visualisation Toolkit
 
 
 ## Analytics
