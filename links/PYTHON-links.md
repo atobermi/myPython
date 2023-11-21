@@ -97,6 +97,7 @@
 - [dd](https://reactscript.com/best-data-table/) - best datatable react
 - [taipy](https://www.taipy.io/) - Your Web Application Builder. Pure Python
 - [streamlite vs taipy](https://towardsdev.com/streamlit-vs-taipy-the-ultimate-comparison-f705d60930f6)
+- [textual terminal UI](https://www.blog.pythonlibrary.org/2023/03/28/an-intro-to-textual/)
 
 ## Libs
 - [Missing Batteries](https://martinheinz.dev/blog/96) - Python's Missing Batteries: Essential Libraries You're Missing Out On
