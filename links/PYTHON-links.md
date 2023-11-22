@@ -178,6 +178,7 @@
 - [pysc](https://mentorthetech.blogspot.com/2023/07/20-python-scripts-with-code-to-automate.html) - 20 Best Python Scripts to Automate Your Work
 - [TechBuf](https://thetechbuffet.substack.com/p/improve-python-development-workflow) - 4 Tools to add to your Python Project Before Shipping to Production
 - [API](https://aeturrell.com/blog/posts/build-a-cloud-api/build-a-cloud-api.html) - Building an API in the cloud in fewer than 200 lines of code
+- [StackAbuse](https://stackabuse.com/author/stamd/) - Dimitrije Stamenic at StackAbuse
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
