@@ -1,6 +1,8 @@
 # ZIG
 - [ZIG](https://ziglang.org/) - Zig is a general-purpose programming language ( C replacement ? )
 
+- [UV](https://www.computerwoche.de/a/so-nutzen-sie-uv,3698517) - pip ersatz ?
+
 # Python links
 - [ZEN](https://realpython.com/zen-of-python/)
 - [Frameworks](#s1)
