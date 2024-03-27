@@ -6,6 +6,7 @@
 
 
 # Python links
+- [EveryDunderMethod](https://www.pythonmorsels.com/every-dunder-method/)
 - [ZEN](https://realpython.com/zen-of-python/)
 - [Frameworks](#s1)
 - [RUST](#r1)
