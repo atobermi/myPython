@@ -3,6 +3,7 @@
 
 - [UV](https://www.computerwoche.de/a/so-nutzen-sie-uv,3698517) - pip ersatz ?
 - [Mount](/https://github.com/piercefreeman/mountaineer) - mountaineer: Web Framework for Python and React
+- [reflex](https://reflex.dev/blog/2024-03-21-reflex-architecture/) - web frontend backend in python
 
 
 # Python links
