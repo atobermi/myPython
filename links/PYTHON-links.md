@@ -7,6 +7,7 @@
 
 
 # Python links
+- [CleanCodePython](https://testdriven.io/blog/clean-code-python/?v=1)
 - [EveryDunderMethod](https://www.pythonmorsels.com/every-dunder-method/)
 - [ZEN](https://realpython.com/zen-of-python/)
 - [Frameworks](#s1)
