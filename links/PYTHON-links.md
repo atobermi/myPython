@@ -171,6 +171,7 @@
 - [ElegantSolutions](https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018) - pycon2018
 
 ## Blogs
+- [pybit](https://pybit.es/articles/)
 - [Python Insider DE](http://blog-de.python.org/)
 - [20 Best Python Blogs](https://bloggingfordevs.com/python-blogs/)
 - [Working with Files I/O](https://abiakshar.medium.com/working-with-python-files-i-o-e734de03b967)
