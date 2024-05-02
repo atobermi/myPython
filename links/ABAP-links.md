@@ -1,6 +1,7 @@
 # ABAP links
 
-- [SAP Dev Tech Radar](https://github.com/tobiashofmann/sap-dev-tech-radar)
+- [SAP Dev Tech Radar Repro](https://tobiashofmann.github.io/sap-dev-tech-radar/)
+- [SAP Dev Tech Radar Repro](https://github.com/tobiashofmann/sap-dev-tech-radar)
 
 ## Tricks
 - [CleanABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP_de.md) - SAP Clean ABAP
