@@ -2,6 +2,7 @@
 
 - [SAP Dev Tech Radar Repro](https://tobiashofmann.github.io/sap-dev-tech-radar/)
 - [SAP Dev Tech Radar Repro](https://github.com/tobiashofmann/sap-dev-tech-radar)
+- [ABAP Cloud Developer Trial 2022](https://community.sap.com/t5/technology-blogs-by-sap/abap-cloud-developer-trial-2022-available-now/ba-p/13598069)
 
 ## Tricks
 - [CleanABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP_de.md) - SAP Clean ABAP
