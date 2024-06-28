@@ -26,6 +26,7 @@
 
 ## GUI
 - [Textualize](https://www.textualize.io/) - Build amazing TUIs (Text User Interfaces) with this innovative Python framework
+- [mesop](https://google.github.io/mesop/) - Quickly build web UIs in Python 
 
 ## base-camp
 
