@@ -16,7 +16,7 @@
 - [hidden features](https://stackabuse.com/hidden-features-of-python/)
 - [SingleLine](https://medium.com/@hafizabdullaha93/20-extremely-useful-single-line-python-codes-de44928a1a3b)- 20 extremely useful single-line Python codes
 - [magic methods](https://www.blog.dailydoseofds.com/p/a-consolidated-list-of-20-most-common) - A Consolidated List of 20 Most Common Magic Methods
-
+- [Python Developer Tooling Handbook](https://pydevtools.com/handbook) - understand the ecosystem of tools used to make Python development easier 
 ## tools
 - [cw open source](https://www.computerwoche.de/a/die-besten-open-source-development-tools-fuer-lau,3613506)
 - [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
