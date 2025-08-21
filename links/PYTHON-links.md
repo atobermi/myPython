@@ -190,6 +190,7 @@
 - [TechBuf](https://thetechbuffet.substack.com/p/improve-python-development-workflow) - 4 Tools to add to your Python Project Before Shipping to Production
 - [API](https://aeturrell.com/blog/posts/build-a-cloud-api/build-a-cloud-api.html) - Building an API in the cloud in fewer than 200 lines of code
 - [StackAbuse](https://stackabuse.com/author/stamd/) - Dimitrije Stamenic at StackAbuse
+- [vutr substack - diverses](https://vutr.substack.com/p/i-spent-5-hours-understanding-how)
 
 ## Journal
 - [Nightingale](https://nightingaledvs.com/) - Magazini DataVisualization Society
@@ -384,4 +385,5 @@
 
 ## <a id='r1' />RUST
 - [the book](https://doc.rust-lang.org/book/)
+
 
