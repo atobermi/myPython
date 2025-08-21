@@ -6,4 +6,4 @@
 
 ## Prompting
 
-- [5 Tipps, um besser zu prompten](https://www.computerwoche.de/article/4042963/5-tipps-um-besser-zu-prompten.htm)
+- [5 Tipps, um besser zu prompten](https://www.computerwoche.de/article/4042963/5-tipps-um-besser-zu-prompten.html)
